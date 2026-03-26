@@ -22,6 +22,7 @@ Tully_10 = {
 	trait = fickle
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	5873.1.1 = {
@@ -53,6 +54,7 @@ Tully_11 = {
 	trait = fickle
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	5892.1.1 = {
@@ -121,6 +123,7 @@ Tully_13 = {
 	trait = brave
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7558.1.1 = {
@@ -190,6 +193,7 @@ Tully_16 = { # Doom of Valyria
 	father = Tully_15
 	mother = Tully_rs_15
 
+	trait = average_height
 	7857.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -382,6 +386,7 @@ Tully_19 = {
 	trait = brave
 	trait = education_martial_2
 
+	trait = average_height
 	7880.1.1 = {
 		birth = yes
 		make_trait_inactive = blue_eyes
@@ -476,6 +481,7 @@ Tully_21 = {
 	trait = diligent
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7971.1.1 = {
@@ -667,6 +673,7 @@ Tully_30 = {
 	trait = brave
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8020.1.1 = {
@@ -744,6 +751,7 @@ Tully_33 = { # Dance of the Dragons
 	trait = arrogant
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8049.1.1 = {
@@ -868,6 +876,7 @@ Tully_39 = {
 	trait = callous
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8088.1.1 = {
@@ -1122,6 +1131,7 @@ Tully_44 = {
 	trait = authoritative
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8112.1.1 = {
@@ -1201,6 +1211,7 @@ Tully_46 = {
 	trait = education_martial_3
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8115.1.1 = {
@@ -1910,6 +1921,7 @@ Tully_68 = {
 	father = Tully_66
 	mother = Trant_90
 
+	trait = average_height
 	8225.1.1 = {
 		birth = yes
 		make_trait_inactive = blue_eyes
@@ -3694,6 +3706,7 @@ Frey_116 = { # Dance of the Dragons
 	trait = authoritative
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8094.1.1 = {
@@ -4072,6 +4085,7 @@ Frey_133 = {
 	trait = education_martial_1
 	trait = deceitful
 
+	trait = average_height
 	8176.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -4174,6 +4188,7 @@ Frey_137 = {
 
 	trait = education_martial_1
 
+	trait = average_height
 	8193.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -6043,6 +6058,7 @@ Charlton_7 = { # Doom of Valyria
 	trait = impatient
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7867.1.1 = {
@@ -6833,6 +6849,7 @@ Charlton_16 = {
 	father = Charlton_68
 	mother = Biggs_28
 
+	trait = average_height
 	8084.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -7113,6 +7130,7 @@ Charlton_22 = {
 	father = Charlton_20
 	mother = Swale_49
 
+	trait = average_height
 	8180.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -8421,6 +8439,7 @@ Mallister_11 = {
 	trait = vengeful
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7802.1.1 = {
@@ -9027,6 +9046,7 @@ Mallister_24 = {
 	father = Mallister_23
 	mother = Banefort_71
 
+	trait = average_height
 	8054.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -9141,6 +9161,7 @@ Mallister_27 = {
 	father = Mallister_25
 	mother = Tarth_55
 
+	trait = average_height
 	8102.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -9829,6 +9850,7 @@ Mallister_50 = {
 	father = Mallister_46
 	mother = Hightower_119
 
+		trait = average_height
 	8180.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -9894,6 +9916,7 @@ Mallister_52 = {
 	father = Mallister_49
 	mother = Chelsted_67
 
+	trait = average_height
 	8196.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -13023,6 +13046,7 @@ Wayn_12 = {
 	trait = zealous
 	trait = just
 
+	trait = average_height
 	8009.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -14083,6 +14107,7 @@ Terrick_11 = {
 	trait = zealous
 	trait = just
 
+	trait = average_height
 	8020.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -14995,6 +15020,7 @@ Vypren_4 = {
 	trait = ambitious
 	trait = zealous
 
+	trait = average_height
 	5880.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -15964,6 +15990,7 @@ Vypren_15 = {
 	trait = wrathful
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8098.1.1 = {
@@ -16702,6 +16729,7 @@ Blackwood_27 = {
 	trait = ambitious
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7559.1.1 = {
@@ -16789,6 +16817,7 @@ Blackwood_30 = {
 	father = Blackwood_27
 	mother = Blackwood_rs_27
 
+	trait = average_height
 	7580.1.1 = {
 		birth = yes
 		make_trait_inactive = black_hair
@@ -17336,6 +17365,7 @@ Blackwood_37 = { # Doom of Valyria
 	trait = stubborn
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7869.1.1 = {
@@ -17716,6 +17746,7 @@ Blackwood_56 = {
 
 	trait = gregarious
 
+	trait = average_height
 	8059.1.1 = {
 		birth = yes
 		make_trait_inactive = black_hair
@@ -17810,6 +17841,7 @@ Blackwood_58 = {
 	trait = education_martial_prowess_2
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	# canon_children_bastard_parent_status married_father_unmarried_mother
@@ -17940,6 +17972,7 @@ Blackwood_60 = { # Dance of the Dragons
 	trait = callous
 	trait = zealous
 
+	trait = average_height
 	8096.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -18070,6 +18103,7 @@ Blackwood_63 = {
 	trait = honest
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8113.1.1 = {
@@ -18251,6 +18285,7 @@ Blackwood_74 = { # Conquest of Dorne
 	trait = education_martial_3
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8117.1.1 = {
@@ -18568,6 +18603,7 @@ Blackwood_81 = {
 	trait = generous
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8158.1.1 = {
@@ -18674,6 +18710,7 @@ Blackwood_90 = {
 
 	trait = brave
 
+	trait = average_height
 	8170.1.1 = {
 		birth = yes
 		make_trait_inactive = black_hair
@@ -18808,6 +18845,7 @@ Blackwood_87 = {
 	trait = just
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8201.1.1 = {
@@ -18839,6 +18877,7 @@ Blackwood_88 = {
 	father = Blackwood_82
 	mother = Wallain_41
 
+	trait = average_height
 	8203.1.1 = {
 		birth = yes
 		make_trait_inactive = black_hair
@@ -20007,6 +20046,7 @@ Paege_29 = {
 	trait = education_martial_2
 	trait = education_martial_prowess_1
 
+	trait = average_height
 	8184.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -21574,6 +21614,7 @@ Bracken_33 = { # Doom of Valyria
 	trait = arrogant
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7877.1.1 = {
@@ -22023,6 +22064,7 @@ Bracken_42 = {
 	trait = callous
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8009.1.1 = {
@@ -22076,6 +22118,7 @@ Bracken_41 = {
 	trait = temperate
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8010.1.1 = {
@@ -22299,6 +22342,7 @@ Bracken_55 = { # Dance of the Dragons
 	trait = fickle
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8073.1.1 = {
@@ -22425,6 +22469,7 @@ Bracken_56 = {
 	trait = brave
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8094.1.1 = {
@@ -22522,6 +22567,7 @@ Bracken_60 = {
 	# canon_children_bastard_parent_status married_father_unmarried_mother
 	# canon_children_bastard_reveal canon_bastard_known_father_public
 
+	trait = average_height
 	8105.1.1 = {
 		birth = yes
 		make_trait_inactive = surname_rivers
@@ -22941,6 +22987,7 @@ Bracken_76 = {
 	trait = ambitious
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8155.1.1 = {
@@ -22974,6 +23021,7 @@ Bracken_75 = {
 	trait = arrogant
 	trait = beauty_good_2
 
+	trait = average_height
 	8159.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -23187,6 +23235,7 @@ Bracken_79 = {
 	trait = honest
 	trait = callous
 
+	trait = average_height
 	8171.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -23665,6 +23714,7 @@ Lychester_14 = { # Faith Militant Uprising
 	trait = zealous
 	trait = brave
 
+	trait = average_height
 	8002.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -25471,6 +25521,7 @@ Vance_Wayfarers_Rest_11 = {
 	trait = just
 	trait = brave
 
+	trait = average_height
 	5888.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -25569,6 +25620,7 @@ Vance_Wayfarers_Rest_13 = {
 	trait = ambitious
 	trait = wrathful
 
+	trait = average_height
 	7751.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -26257,6 +26309,7 @@ Vance_Wayfarers_Rest_22 = { # Faith Militant Uprising
 	father = Vance_Wayfarers_Rest_58
 	mother = Sarsfield_33
 
+	trait = average_height
 	7993.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -26560,6 +26613,7 @@ Vance_Wayfarers_Rest_27 = { # Dance of the Dragons
 	father = Vance_Wayfarers_Rest_75
 	mother = Vance_Atranta_40
 
+		trait = average_height
 	8072.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -26669,6 +26723,7 @@ Vance_Wayfarers_Rest_32 = {
 	father = Vance_Wayfarers_Rest_28
 	mother = Wayn_79
 
+	trait = average_height
 	8116.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -28732,6 +28787,7 @@ Darry_26 = { # Faith Militant Uprising
 	father = Darry_24
 	mother = Pace_42
 
+		trait = average_height
 	7996.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -28858,6 +28914,7 @@ Darry_33 = {
 	father = Darry_30
 	mother = Wotlin_45
 
+		trait = average_height
 	8080.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -28923,6 +28980,7 @@ Darry_36 = {
 	father = Darry_31
 	mother = Kyndall_38
 
+		trait = average_height
 	8105.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -28945,6 +29003,7 @@ Darry_37 = {
 	father = Darry_31
 	mother = Kyndall_38
 
+		trait = average_height
 	8107.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -29067,6 +29126,7 @@ Darry_42 = {
 	father = Darry_34
 	mother = Bracken_59
 
+	trait = average_height
 	8120.1.8 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -29475,6 +29535,7 @@ Darry_55 = { # Blackfyre Rebellion
 
 	trait = education_martial_2
 
+	trait = average_height
 	8173.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -30981,6 +31042,7 @@ Roote_7 = {
 	trait = content
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7981.1.1 = {
@@ -32180,6 +32242,7 @@ Mooton_12 = {
 
 	trait = brave
 
+	trait = average_height
 	5889.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -32526,6 +32589,7 @@ Mooton_22 = {
 	trait = ambitious
 	trait = brave
 
+	trait = average_height
 	7972.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -32587,6 +32651,7 @@ Mooton_25 = {
 	father = Mooton_23
 	mother = Strong_95
 
+		trait = average_height
 	8028.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -32633,6 +32698,7 @@ Mooton_27 = {
 	trait = compassionate
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8067.1.1 = {
@@ -32889,6 +32955,7 @@ Mooton_34 = { # Dance of the Dragons
 	trait = education_martial_2
 	trait = brave
 
+	trait = average_height
 	8097.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -32920,6 +32987,7 @@ Mooton_35 = {
 	trait = compassionate
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8099.1.1 = {
@@ -33020,6 +33088,7 @@ Mooton_39 = {
 	father = Mooton_36
 	mother = Smallwood_22
 
+	trait = average_height
 	8122.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -33346,6 +33415,7 @@ Mooton_hh_1 = {
 	trait = diligent
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8098.1.1 = {
@@ -33769,6 +33839,7 @@ Piper_20 = { # Faith Militant Uprising
 
 	trait = education_martial_1
 
+	trait = average_height
 	8019.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -33819,6 +33890,7 @@ Piper_22 = {
 	trait = authoritative
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8022.1.1 = {
@@ -33926,6 +33998,7 @@ Piper_26 = { # Dance of the Dragons
 	trait = brave
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8067.1.1 = {
@@ -34001,6 +34074,7 @@ Piper_27 = {
 	father = Piper_26
 	mother = Bracken_54
 
+		trait = average_height
 	8090.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -34770,6 +34844,7 @@ Piper_hh_1 = {
 	trait = callous
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8082.1.1 = {
@@ -35345,6 +35420,7 @@ Smallwood_15 = {
 	trait = honest
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8014.1.1 = {
@@ -35565,6 +35641,7 @@ Smallwood_21 = { # Dance of the Dragons
 	trait = patient
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8104.1.1 = {
@@ -35924,6 +36001,7 @@ Smallwood_35 = {
 	father = Smallwood_21
 	mother = Westerling_30
 
+	trait = average_height
 	8120.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -40046,6 +40124,7 @@ Nayland_22 = {
 	father = Nayland_55
 	mother = Rankenfell_72
 
+	trait = average_height
 	8182.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -43093,6 +43172,7 @@ Grey_17 = { # Dance of the Dragons
 	trait = brave
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8099.1.1 = {
@@ -44480,6 +44560,7 @@ Heddle_6 = {
 
 	trait = education_stewardship_3
 
+	trait = average_height
 	8105.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -44546,6 +44627,7 @@ Heddle_9 = {
 	trait = authoritative
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8174.1.1 = {
@@ -46049,6 +46131,7 @@ Nutt_3 = {
 	trait = ambitious
 	trait = authoritative
 
+	trait = average_height
 	7864.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -47931,6 +48014,7 @@ Wode_16 = { # Dance of the Dragons
 	trait = education_martial_3
 	trait = brave
 
+	trait = average_height
 	8082.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -48573,6 +48657,7 @@ Butterwell_13 = { # Faith Militant Uprising
 	trait = ambitious
 	trait = honest
 
+	trait = average_height
 	8015.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -48673,6 +48758,7 @@ Butterwell_17 = {
 
 	trait = intellect_bad_1
 
+	trait = average_height
 	8072.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -48998,6 +49084,7 @@ Butterwell_28 = {
 	trait = zealous
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8161.1.1 = {
@@ -49216,6 +49303,7 @@ Butterwell_hh_1 = {
 	trait = education_learning_3
 	trait = cynical
 
+	trait = average_height
 	8147.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -52002,6 +52090,7 @@ Deddings_13 = {
 	father = Deddings_12
 	mother = Gaunt_42
 
+	trait = average_height
 	8088.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -52039,6 +52128,7 @@ Deddings_15 = {
 	father = Deddings_13
 	mother = Corne_93
 
+		trait = average_height
 	8114.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -52066,6 +52156,7 @@ Deddings_16 = {
 	father = Deddings_13
 	mother = Corne_93
 
+	trait = average_height
 	8115.6.7 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -53311,6 +53402,7 @@ Rankenfell_8 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	7646.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -56851,6 +56943,7 @@ Pimm_41 = {
 	trait = honest
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8175.1.1 = {
@@ -58321,6 +58414,7 @@ Dunstable_33 = {
 	trait = cynical
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8180.1.1 = {
@@ -59224,6 +59318,7 @@ Penny_29 = {
 	trait = authoritative
 	trait = education_martial_2
 
+	trait = average_height
 	8104.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -59982,6 +60077,7 @@ Whistler_21 = {
 	trait = just
 	trait = brave
 
+	trait = average_height
 	8006.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -60241,6 +60337,7 @@ Greysteel_1 = {
 	trait = brave
 	trait = just
 
+	trait = average_height
 	8079.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -74369,6 +74466,7 @@ Pennytree_2 = {
 	trait = content
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8151.1.1 = {
@@ -74413,6 +74511,7 @@ Pennytree_4 = {
 
 	mother = Pennytree_3
 
+		trait = average_height
 	8182.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -74455,6 +74554,7 @@ Knight_Riverlands_4 = {
 	trait = just
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8010.1.1 = {
@@ -74482,6 +74582,7 @@ Knight_Riverlands_3 = {
 	trait = education_martial_prowess_3
 	trait = zealous
 
+	trait = average_height
 	8010.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -74518,6 +74619,7 @@ Qoherys_1 = {
 
 	trait = education_martial_3
 
+	trait = average_height
 	7950.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -74620,6 +74722,7 @@ Qoherys_4 = {
 	trait = intellect_bad_1
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8000.1.1 = {
@@ -74819,6 +74922,7 @@ Harroway_8 = {
 	trait = education_stewardship_3
 	trait = diligent
 
+	trait = average_height
 	8005.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -74902,6 +75006,7 @@ Harroway_11 = {
 	father = Harroway_8
 	mother = Bracken_44
 
+		trait = average_height
 	8021.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -74985,6 +75090,7 @@ Harroway_14 = {
 	religion = fots_seven
 	culture = riverman_main
 
+	trait = average_height
 	8024.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -75009,6 +75115,7 @@ Harroway_15 = {
 	religion = fots_seven
 	culture = riverman_main
 
+	trait = average_height
 	8025.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -75036,6 +75143,7 @@ Harroway_16 = {
 
 	trait = intellect_bad_3
 
+	trait = average_height
 	8026.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -75615,6 +75723,7 @@ Towers_1 = {
 	trait = impatient
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7995.1.1 = {
@@ -75664,6 +75773,7 @@ Towers_2 = {
 	trait = calm
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8014.1.1 = {
@@ -75758,6 +75868,7 @@ Towers_6 = {
 	trait = weak
 	trait = compassionate
 
+	trait = average_height
 	8043.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -75791,6 +75902,7 @@ Strong_100 = {
 	trait = education_martial_prowess_4
 	trait = strong
 
+	trait = average_height
 	5310.1.1 = {
 		birth = yes
 		make_trait_inactive = brown_eyes
@@ -76572,6 +76684,7 @@ Strong_7 = {
 	trait = ambitious
 	trait = diligent
 
+	trait = average_height
 	7975.1.1 = {
 		birth = yes
 		make_trait_inactive = brown_eyes
@@ -76757,6 +76870,7 @@ Strong_9 = {
 	trait = brave
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8030.1.1 = {
@@ -76796,6 +76910,7 @@ Strong_10 = {
 	trait = brave
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8032.1.1 = {
@@ -77373,6 +77488,7 @@ Strong_28 = {
 	father = Strong_9
 	mother = Rankenfell_37
 
+	trait = average_height
 	8054.1.1 = {
 		birth = yes
 		make_trait_inactive = brown_eyes
@@ -77453,6 +77569,7 @@ Strong_29 = {
 	trait = just
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8067.1.1 = {
@@ -77539,6 +77656,7 @@ Strong_30 = {
 	trait = wrathful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8085.1.1 = {
@@ -77607,6 +77725,7 @@ Strong_31 = {
 
 	give_nickname = nick_agot_historical_the_clubfoot
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8089.1.1 = {
@@ -77710,6 +77829,7 @@ Strong_34 = {
 	trait = beauty_good_2
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8082.1.1 = {
@@ -78437,6 +78557,7 @@ Lothston_1 = {
 
 	trait = gluttonous
 
+	trait = average_height
 	8007.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -78533,6 +78654,7 @@ Lothston_5 = {
 	trait = arbitrary # pimped out his own wife and daughter for profit
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8113.1.1 = {
@@ -78604,6 +78726,7 @@ Lothston_16 = {
 	trait = wrathful
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8152.1.1 = {
@@ -78814,6 +78937,7 @@ Lothston_14 = {
 	# canon_children_bastard_parent_status married_father_unmarried_mother
 	# canon_children_bastard_reveal canon_bastard_unknown_father
 
+	trait = average_height
 	8163.6.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -78936,6 +79060,7 @@ Lothston_17 = {
 	trait = arrogant
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8184.1.1 = {
@@ -79277,6 +79402,7 @@ Mudd_15 = {
 
 	father = Mudd_13
 
+		trait = average_height
 	5473.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -79496,6 +79622,7 @@ Mudd_31 = {
 	trait = strong
 	trait = intellect_good_2
 
+	trait = average_height
 	5870.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -79531,6 +79658,7 @@ Mudd_32 = {
 
 	trait = weak
 
+	trait = average_height
 	5890.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -79569,6 +79697,7 @@ Mudd_34 = {
 	trait = authoritative
 	trait = lunatic_1
 
+	trait = average_height
 	7712.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -79631,6 +79760,7 @@ Mudd_54 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8243.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -79687,6 +79817,7 @@ Teague_1 = {
 	trait = wrathful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6290.1.1 = {
@@ -79737,6 +79868,7 @@ Teague_4 = {
 	trait = arbitrary
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6372.1.1 = {
@@ -79775,6 +79907,7 @@ Teague_6 = {
 	trait = callous
 	trait = arbitrary
 
+	trait = average_height
 	7563.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -79797,6 +79930,7 @@ Teague_7 = {
 
 	father = Teague_5
 
+	trait = average_height
 	7566.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -79820,6 +79954,7 @@ Teague_8 = {
 	father = Teague_6
 	mother = Bracken_134
 
+	trait = average_height
 	7581.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -79842,6 +79977,7 @@ Teague_9 = {
 	father = Teague_6
 	mother = Bracken_134
 
+	trait = average_height
 	7582.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -79864,6 +80000,7 @@ Teague_10 = {
 	father = Teague_6
 	mother = Bracken_134
 
+	trait = average_height
 	7583.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -79889,6 +80026,7 @@ Teague_11 = {
 	trait = bastard
 	trait = ambitious
 
+	trait = average_height
 	7586.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -80005,6 +80143,7 @@ Fisher_riverlands_duplicate_8 = {
 	trait = ambitious
 	trait = brave
 
+	trait = average_height
 	7760.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -80061,6 +80200,7 @@ Justman_1 = {
 	trait = authoritative
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	5978.1.1 = {
@@ -80093,6 +80233,7 @@ Justman_2 = {
 	trait = ambitious
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6032.1.1 = {
@@ -80173,6 +80314,7 @@ Justman_8 = {
 
 	trait = greedy
 
+	trait = average_height
 	6152.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -80259,6 +80401,7 @@ Justman_12 = {
 	trait = ambitious
 	trait = deceitful
 
+	trait = average_height
 	7688.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -80341,6 +80484,7 @@ Pate_1 = {
 	trait = brave
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7665.1.1 = {

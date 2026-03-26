@@ -81,6 +81,7 @@ Targaryen_13 = {
 	trait = paranoid
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7846.1.1 = {
@@ -153,6 +154,7 @@ Targaryen_14 = {
 	trait = arrogant
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7868.1.1 = {
@@ -191,6 +193,7 @@ Targaryen_15 = {
 	trait = humble
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	give_nickname = nick_agot_historical_the_dreamer
@@ -245,6 +248,7 @@ Targaryen_16 = {
 	father = Targaryen_14
 	mother = Targaryen_15
 
+	trait = average_height
 	7890.1.1 = {
 		birth = yes
 		make_trait_inactive = silver_blonde_hair
@@ -268,6 +272,7 @@ Targaryen_17 = {
 	father = Targaryen_14
 	mother = Targaryen_15
 
+	trait = average_height
 	7891.1.1 = {
 		birth = yes
 		make_trait_inactive = neutral_silver_hair
@@ -313,6 +318,7 @@ Targaryen_19 = {
 
 	trait = infertile
 
+	trait = average_height
 	7910.1.1 = {
 		birth = yes
 		make_trait_inactive = cool_silver_hair
@@ -335,6 +341,7 @@ Targaryen_20 = {
 
 	trait = twin
 
+	trait = average_height
 	7911.1.1 = {
 		birth = yes
 		make_trait_inactive = cool_silver_hair
@@ -381,6 +388,7 @@ Targaryen_22 = {
 	father = Targaryen_20
 	mother = Targaryen_21
 
+	trait = average_height
 	7928.1.1 = {
 		birth = yes
 		make_trait_inactive = cool_neutral_silver_hair
@@ -408,6 +416,7 @@ Targaryen_23 = {
 	father = Targaryen_20
 	mother = Targaryen_21
 
+		trait = average_height
 	7929.1.1 = {
 		birth = yes
 		make_trait_inactive = neutral_silver_hair
@@ -456,6 +465,7 @@ Targaryen_24 = {
 	father = Targaryen_20
 	mother = Targaryen_21
 
+	trait = average_height
 	7930.1.1 = {
 		birth = yes
 		make_trait_inactive = cool_silver_hair
@@ -573,6 +583,7 @@ Targaryen_26 = {
 	father = Targaryen_24
 	mother = Celtigar_12
 
+	trait = average_height
 	7950.1.1 = {
 		birth = yes
 		make_trait_inactive = silver_blonde_hair
@@ -610,6 +621,7 @@ Targaryen_28 = {
 	trait = beauty_good_1
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7972.1.1 = {
@@ -659,6 +671,7 @@ Targaryen_27 = { # Aegon's Conquest
 	trait = strong
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7974.1.15 = {
@@ -823,6 +836,7 @@ Targaryen_29 = {
 	trait = just
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7976.1.1 = {
@@ -870,6 +884,7 @@ Targaryen_30 = {
 	trait = education_martial_prowess_1 # considered "adequate"
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8007.1.1 = {
@@ -945,6 +960,7 @@ Targaryen_31 = {
 	trait = physique_good_2
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8012.1.1 = {
@@ -1131,6 +1147,7 @@ Targaryen_32 = {
 	trait = beauty_good_2
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8023.1.1 = {
@@ -1280,6 +1297,7 @@ Targaryen_33 = {
 	trait = wrathful
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8026.1.1 = {
@@ -1350,6 +1368,7 @@ Targaryen_34 = {
 
 	# disallow_random_traits = yes # FORBIDDEN - use agot_scripted_effects_posthistory_effects instead
 
+	trait = average_height
 	8029.2.1 = {
 		birth = yes
 		make_trait_inactive = cool_silver_hair
@@ -1403,6 +1422,7 @@ Targaryen_35 = {
 	trait = education_martial_prowess_2
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8034.9.20 = {
@@ -1526,6 +1546,7 @@ Targaryen_36 = {
 	trait = intellect_good_2
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8036.6.1 = {
@@ -1602,6 +1623,7 @@ Targaryen_37 = {
 
 	trait = sickly
 
+	trait = average_height
 	8039.1.1 = {
 		birth = yes
 		make_trait_inactive = silver_gold_hair
@@ -1702,6 +1724,7 @@ Targaryen_41 = {
 
 	# disallow_random_traits = yes # FORBIDDEN - use agot_scripted_effects_posthistory_effects instead
 
+	trait = average_height
 	8042.1.1 = {
 		birth = yes
 		make_trait_inactive = cool_silver_hair
@@ -1759,6 +1782,7 @@ Targaryen_42 = {
 	trait = twin
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8042.1.1 = {
@@ -1813,6 +1837,7 @@ Targaryen_43 = {
 
 	trait = sickly
 
+	trait = average_height
 	8052.1.1 = {
 		birth = yes
 		make_trait_inactive = neutral_silver_hair
@@ -1837,6 +1862,7 @@ Targaryen_44 = {
 	trait = brave
 	trait = curious
 
+	trait = average_height
 	8053.7.1 = {
 		birth = yes
 		make_trait_inactive = silver_blonde_hair
@@ -1868,6 +1894,7 @@ Targaryen_45 = {
 	trait = education_stewardship_3
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8055.1.1 = {
@@ -1933,6 +1960,7 @@ Targaryen_46 = {
 	trait = education_stewardship_3
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	give_nickname = nick_agot_historical_the_spring_prince
@@ -2015,6 +2043,7 @@ Targaryen_47 = {
 	trait = rowdy
 	trait = heterochromia_eyes
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8060.6.1 = {
@@ -2056,6 +2085,7 @@ Targaryen_48 = {
 	trait = intellect_good_1
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8062.1.1 = {
@@ -2099,6 +2129,7 @@ Targaryen_49 = {
 	trait = weak
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8063.1.1 = {
@@ -2150,6 +2181,7 @@ Targaryen_50 = {
 	trait = intellect_bad_1
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8064.1.1 = {
@@ -2182,6 +2214,7 @@ Targaryen_51 = {
 	trait = beauty_good_1
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8067.1.1 = {
@@ -2297,6 +2330,7 @@ Targaryen_52 = {
 	trait = beauty_good_3
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8071.1.1 = {
@@ -2340,6 +2374,7 @@ Targaryen_53 = {
 	trait = sickly
 	trait = physique_bad_2
 
+	trait = average_height
 	8073.10.1 = {
 		birth = yes
 		make_trait_inactive = silver_blonde_hair
@@ -2361,6 +2396,7 @@ Targaryen_54 = {
 	trait = sickly
 	trait = physique_bad_2
 
+	trait = average_height
 	8077.1.15 = {
 		birth = yes
 		make_trait_inactive = neutral_silver_hair
@@ -2387,6 +2423,7 @@ Targaryen_55 = {
 	trait = intellect_bad_1
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8080.6.1 = {
@@ -2555,6 +2592,7 @@ Targaryen_59 = {
 	trait = beauty_good_2
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8074.1.1 = {
@@ -2623,6 +2661,7 @@ Targaryen_60 = {
 	trait = education_martial_prowess_1
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8077.1.1 = {
@@ -2753,6 +2792,7 @@ Targaryen_61 = {
 	trait = beauty_good_1
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8081.3.1 = {
@@ -2940,6 +2980,7 @@ Targaryen_62 = {
 	father = Targaryen_46
 	mother = Targaryen_47
 
+	trait = average_height
 	8084.4.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2997,6 +3038,7 @@ Targaryen_63 = {
 	trait = stubborn
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8097.1.1 = {
@@ -3322,6 +3364,7 @@ Targaryen_64 = {
 
 	trait = sickly
 
+	trait = average_height
 	8105.9.2 = {
 		birth = yes
 		make_trait_inactive = silver_blonde_hair
@@ -3355,6 +3398,7 @@ Targaryen_65 = {
 	trait = beauty_good_1
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8107.1.10 = {
@@ -3547,6 +3591,7 @@ Targaryen_66 = {
 	trait = gluttonous
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8109.3.4 = {
@@ -3597,6 +3642,7 @@ Targaryen_67 = {
 	trait = strong
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8110.1.23 = {
@@ -3692,6 +3738,7 @@ Targaryen_68 = {
 
 	# disallow_random_traits = yes # FORBIDDEN - use agot_scripted_effects_posthistory_effects instead
 
+	trait = average_height
 	8114.12.27 = {
 		birth = yes
 		make_trait_inactive = silver_blonde_hair
@@ -3767,6 +3814,7 @@ Targaryen_71 = {
 
 	# disallow_random_traits = yes # FORBIDDEN - use agot_scripted_effects_posthistory_effects instead
 
+	trait = average_height
 	8123.4.13 = {
 		birth = yes
 		make_trait_inactive = silver_blonde_hair
@@ -3818,6 +3866,7 @@ Targaryen_72 = {
 
 	trait = twin
 
+	trait = average_height
 	8123.4.13 = {
 		birth = yes
 		make_trait_inactive = silver_gold_hair
@@ -3844,6 +3893,7 @@ Targaryen_73 = {
 	father = Targaryen_65
 	mother = Targaryen_66
 
+	trait = average_height
 	8127.5.8 = {
 		birth = yes
 		make_trait_inactive = silver_blonde_hair
@@ -3946,6 +3996,7 @@ Targaryen_75 = {
 	# canon_children_bastard_parent_status skip
 	# canon_children_bastard_reveal canon_bastard_known_father_private
 
+	trait = average_height
 	8114.11.29 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -4017,6 +4068,7 @@ Targaryen_76 = {
 	# canon_children_bastard_parent_status skip
 	# canon_children_bastard_reveal canon_bastard_known_father_private
 
+	trait = average_height
 	8115.10.3 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -4086,6 +4138,7 @@ Targaryen_77 = {
 	# canon_children_bastard_parent_status skip
 	# canon_children_bastard_reveal canon_bastard_known_father_private
 
+	trait = average_height
 	8117.3.14 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -4156,6 +4209,7 @@ Targaryen_78 = {
 	trait = chaste # Noted for his aversion to touch
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8120.12.28 = {
@@ -4250,6 +4304,7 @@ Targaryen_79 = {
 	trait = intellect_good_3
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8122.1.13 = {
@@ -4339,6 +4394,7 @@ Targaryen_80 = {
 	trait = clubfooted
 	trait = hunchbacked
 
+	trait = average_height
 	8129.3.25 = {
 		birth = yes
 		make_trait_inactive = cool_silver_hair
@@ -4372,6 +4428,7 @@ Targaryen_69 = {
 	trait = impatient
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8116.1.15 = {
@@ -4429,6 +4486,7 @@ Targaryen_70 = {
 	trait = forgiving
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8116.1.15 = {
@@ -4514,6 +4572,7 @@ Targaryen_81 = {
 	trait = beauty_good_2
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8143.1.1 = {
@@ -4593,6 +4652,7 @@ Targaryen_82 = {
 	trait = temperate
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8143.9.9 = {
@@ -4683,6 +4743,7 @@ Targaryen_83 = {
 	trait = ambitious
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8145.11.24 = {
@@ -4756,6 +4817,7 @@ Targaryen_84 = {
 	trait = content
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8147.8.27 = {
@@ -4806,6 +4868,7 @@ Targaryen_85 = {
 	trait = arrogant
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8150.10.15 = {
@@ -4901,6 +4964,7 @@ Targaryen_88 = {
 	trait = beauty_good_1
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8135.3.14 = {
@@ -5127,6 +5191,7 @@ Targaryen_89 = {
 	trait = strong
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8136.5.3 = {
@@ -5254,6 +5319,7 @@ Targaryen_90 = {
 	trait = temperate
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8138.6.1 = {
@@ -5311,6 +5377,7 @@ Targaryen_91 = {
 	trait = compassionate
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8153.12.31 = {
@@ -5469,6 +5536,7 @@ Targaryen_92 = {
 	trait = twin
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8172.11.14 = { # Born a fortnight after Bittersteel
@@ -5549,6 +5617,7 @@ Targaryen_98 = {
 	# canon_children_bastard_parent_status married_father_married_mother
 	# canon_children_bastard_reveal canon_bastard_known_father_public
 
+	trait = average_height
 	8155.10.1 = {
 		birth = yes
 		make_trait_inactive = neutral_silver_hair
@@ -5586,6 +5655,7 @@ Targaryen_99 = {
 	# canon_children_bastard_parent_status married_father_married_mother
 	# canon_children_bastard_reveal canon_bastard_known_father_public
 
+	trait = average_height
 	8156.9.1 = {
 		birth = yes
 		make_trait_inactive = cool_silver_hair
@@ -5623,6 +5693,7 @@ Targaryen_100 = {
 	# canon_children_bastard_parent_status married_father_married_mother
 	# canon_children_bastard_reveal canon_bastard_known_father_public
 
+	trait = average_height
 	8157.8.1 = {
 		birth = yes
 		make_trait_inactive = cool_neutral_silver_hair
@@ -5660,6 +5731,7 @@ Targaryen_101 = {
 	# canon_children_bastard_parent_status married_father_married_mother
 	# canon_children_bastard_reveal canon_bastard_known_father_public
 
+	trait = average_height
 	8158.7.1 = {
 		birth = yes
 		make_trait_inactive = silver_blonde_hair
@@ -5703,6 +5775,7 @@ Targaryen_94 = {
 	trait = strong
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	# canon_children_bastard_parent_status married_father_unmarried_mother
@@ -5835,6 +5908,7 @@ Targaryen_95 = {
 	trait = physique_good_2
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	# canon_children_bastard_parent_status married_father_unmarried_mother
@@ -5945,6 +6019,7 @@ Targaryen_105 = {
 	# canon_children_bastard_parent_status married_father_unmarried_mother
 	# canon_children_bastard_reveal canon_bastard_known_father_public
 
+	trait = average_height
 	8173.8.1 = {
 		birth = yes
 		make_trait_inactive = cool_silver_hair
@@ -5976,6 +6051,7 @@ Targaryen_106 = {
 	# canon_children_bastard_parent_status married_father_unmarried_mother
 	# canon_children_bastard_reveal canon_bastard_known_father_public
 
+	trait = average_height
 	8174.6.1 = {
 		birth = yes
 		make_trait_inactive = neutral_silver_hair
@@ -6026,6 +6102,7 @@ Targaryen_96 = {
 	trait = albino
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	# canon_children_bastard_parent_status married_father_unmarried_mother
@@ -6150,6 +6227,7 @@ Targaryen_97 = {
 	trait = bossy
 	trait = heterochromia_eyes
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	# canon_children_bastard_parent_status married_father_unmarried_mother
@@ -6226,6 +6304,7 @@ Targaryen_107 = {
 	trait = education_martial_prowess_4
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8170.11.7 = {
@@ -6320,6 +6399,7 @@ Targaryen_108 = {
 	trait = forgiving
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8172.1.1 = {
@@ -6370,6 +6450,7 @@ Targaryen_109 = {
 	trait = eccentric
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8173.1.1 = {
@@ -6410,6 +6491,7 @@ Targaryen_110 = {
 	trait = strong
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8174.1.1 = {
@@ -6477,6 +6559,7 @@ Targaryen_111 = {
 	trait = brave
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8190.1.1 = {
@@ -6527,6 +6610,7 @@ Targaryen_112 = {
 	father = Targaryen_107
 	mother = Dondarrion_39
 
+		trait = average_height
 	8194.1.1 = {
 		birth = yes
 		make_trait_inactive = cool_silver_hair
@@ -6603,6 +6687,7 @@ Targaryen_115 = {
 
 	trait = twin
 
+	trait = average_height
 	8201.1.1 = {
 		birth = yes
 		make_trait_inactive = silver_blonde_hair
@@ -6636,6 +6721,7 @@ Targaryen_116 = {
 
 	trait = twin
 
+	trait = average_height
 	8201.1.1 = {
 		birth = yes
 		make_trait_inactive = silver_blonde_hair
@@ -6664,6 +6750,7 @@ Targaryen_117 = {
 	father = Targaryen_109
 	mother = Arryn_106
 
+	trait = average_height
 	8213.1.1 = {
 		birth = yes
 		make_trait_inactive = silver_gold_hair
@@ -6694,6 +6781,7 @@ Targaryen_118 = {
 	trait = education_stewardship_1
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8190.1.1 = {
@@ -6743,6 +6831,7 @@ Targaryen_119 = {
 	trait = beauty_good_3
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8192.1.1 = {
@@ -6834,6 +6923,7 @@ Targaryen_120 = {
 	trait = beauty_good_1
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8198.1.1 = {
@@ -6914,6 +7004,7 @@ Targaryen_121 = {
 	father = Targaryen_110
 	mother = Dayne_69
 
+	trait = average_height
 	8199.1.1 = {
 		birth = yes
 		make_trait_inactive = silver_blonde_hair
@@ -6979,6 +7070,7 @@ Targaryen_122 = {
 	trait = intellect_good_2
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8200.1.1 = {
@@ -7149,6 +7241,7 @@ Targaryen_123 = {
 	father = Targaryen_110
 	mother = Dayne_69
 
+	trait = average_height
 	8202.1.1 = {
 		birth = yes
 		make_trait_inactive = silver_gold_hair
@@ -7183,6 +7276,7 @@ Targaryen_124 = {
 	trait = trusting
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	give_nickname = nick_agot_historical_the_simple_vaella
@@ -7222,6 +7316,7 @@ Targaryen_125 = {
 	father = Targaryen_119
 	mother = Targaryen_117
 
+	trait = average_height
 	8232.1.1 = {
 		birth = yes
 		make_trait_inactive = cool_silver_hair
@@ -7271,6 +7366,7 @@ Targaryen_126 = {
 	trait = education_martial_prowess_2
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8221.1.1 = {
@@ -7377,6 +7473,7 @@ Targaryen_127 = {
 	trait = brave
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8225.1.1 = {
@@ -7441,6 +7538,7 @@ Targaryen_128 = {
 	trait = trusting
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8226.1.1 = {
@@ -7486,6 +7584,7 @@ Targaryen_129 = {
 	trait = just
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8228.1.1 = {
@@ -7558,6 +7657,7 @@ Targaryen_130 = {
 
 	trait = beauty_good_2
 
+	trait = average_height
 	8230.1.1 = {
 		birth = yes
 		make_trait_inactive = silver_gold_hair
@@ -7600,6 +7700,7 @@ Blackfyre_1 = {
 
 	# disallow_random_traits = yes # FORBIDDEN - use agot_scripted_effects_posthistory_effects instead
 
+	trait = average_height
 	8184.10.1 = {
 		birth = yes
 		make_trait_inactive = cool_silver_hair
@@ -7656,6 +7757,7 @@ Blackfyre_2 = {
 
 	# disallow_random_traits = yes # FORBIDDEN - use agot_scripted_effects_posthistory_effects instead
 
+	trait = average_height
 	8184.10.1 = {
 		birth = yes
 		make_trait_inactive = silver_blonde_hair
@@ -7709,6 +7811,7 @@ Blackfyre_3 = {
 	trait = brave
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8185.10.1 = {
@@ -7808,6 +7911,7 @@ Blackfyre_5 = {
 	trait = charming
 	give_nickname = nick_agot_historical_the_younger_Blackfyre_5
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8188.1.1 = {
@@ -7897,6 +8001,7 @@ Blackfyre_6 = {
 	trait = rude
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8189.1.1 = {
@@ -7958,6 +8063,7 @@ Blackfyre_7 = {
 	trait = authoritative
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8190.1.1 = {
@@ -8175,6 +8281,7 @@ Blackfyre_11 = {
 	trait = brave
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8212.1.1 = {
@@ -8275,6 +8382,7 @@ Blackfyre_13 = {
 	trait = wrathful
 	trait = ambitious
 	trait = pensive
+	trait = average_height
 	disallow_random_traits = yes
 
 	8217.1.1 = {
@@ -8333,6 +8441,7 @@ Blackfyre_14 = {
 	trait = disfigured
 	trait = rowdy
 
+	trait = tall_5
 	disallow_random_traits = yes
 
 	8220.1.1 = {
@@ -8574,6 +8683,7 @@ Farseed_1 = {
 	trait = rude
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8113.1.1 = {
@@ -8696,6 +8806,7 @@ Hammer_1 = {
 	trait = deceitful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	# canon_children_bastard_parent_status unmarried_father_unmarried_mother
@@ -8776,6 +8887,7 @@ White_1 = {
 	trait = arbitrary
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8091.1.1 = {
@@ -8860,6 +8972,7 @@ Truefyre_1 = {
 
 	# disallow_random_traits = yes # FORBIDDEN - use agot_scripted_effects_posthistory_effects instead
 
+	trait = average_height
 	8115.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -8921,6 +9034,7 @@ Truefyre_hh_1 = {
 	trait = education_martial_2
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8094.1.1 = {
@@ -8979,6 +9093,7 @@ Palehair_1 = {
 	# canon_children_bastard_parent_status married_father_unmarried_mother
 	# canon_children_bastard_reveal canon_bastard_unknown_father
 
+	trait = average_height
 	8126.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -9043,6 +9158,7 @@ Palehair_hh_1 = {
 	trait = compassionate
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8092.1.1 = {
@@ -9085,6 +9201,7 @@ Palehair_hh_2 = {
 	trait = authoritative
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8093.1.1 = {
@@ -9380,6 +9497,7 @@ Velaryon_11 = {
 	trait = diligent
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7951.1.1 = {
@@ -9427,6 +9545,7 @@ Velaryon_12 = {
 
 	trait = beauty_good_2
 
+	trait = average_height
 	7952.6.9 = {
 		birth = yes
 		make_trait_inactive = cool_neutral_silver_hair
@@ -9481,6 +9600,7 @@ Velaryon_13 = {
 	trait = education_martial_3
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7974.1.1 = {
@@ -9563,6 +9683,7 @@ Velaryon_15 = {
 	trait = brave
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7980.1.1 = {
@@ -9766,6 +9887,7 @@ Velaryon_20 = {
 	trait = education_martial_3
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7998.1.1 = {
@@ -9874,6 +9996,7 @@ Velaryon_24 = {
 	trait = vengeful
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8007.1.1 = {
@@ -9910,6 +10033,7 @@ Velaryon_22 = {
 	father = Velaryon_21
 	mother = Stokeworth_15_B
 
+	trait = average_height
 	8030.1.1 = {
 		birth = yes
 		make_trait_inactive = neutral_silver_hair
@@ -9937,6 +10061,7 @@ Velaryon_25 = {
 	father = Velaryon_20
 	mother = Darklyn_12_A
 
+	trait = average_height
 	8017.1.1 = {
 		birth = yes
 		make_trait_inactive = silver_gold_hair
@@ -9959,6 +10084,7 @@ Velaryon_26 = {
 	father = Velaryon_20
 	mother = Darklyn_12_A
 
+		trait = average_height
 	8019.1.1 = {
 		birth = yes
 		make_trait_inactive = neutral_silver_hair
@@ -9983,6 +10109,7 @@ Velaryon_27 = {
 	father = Velaryon_20
 	mother = Darklyn_12_A
 
+	trait = average_height
 	8020.1.1 = {
 		birth = yes
 		make_trait_inactive = silver_blonde_hair
@@ -10006,6 +10133,7 @@ Velaryon_28 = {
 	father = Velaryon_20
 	mother = Darklyn_12_A
 
+		trait = average_height
 	8021.1.1 = {
 		birth = yes
 		make_trait_inactive = cool_silver_hair
@@ -10121,6 +10249,7 @@ Velaryon_31 = { # Dance of the Dragons
 	trait = honest
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8052.10.1 = {
@@ -10262,6 +10391,7 @@ Velaryon_34 = {
 	trait = trusting
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8092.10.1 = {
@@ -10304,6 +10434,7 @@ Velaryon_35 = {
 	trait = patient
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8094.1.1 = {
@@ -10367,6 +10498,7 @@ Velaryon_37 = {
 	trait = stubborn
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8076.1.1 = {
@@ -10541,6 +10673,7 @@ Velaryon_41 = {
 	trait = callous
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8087.1.1 = {
@@ -10589,6 +10722,7 @@ Velaryon_42 = {
 	trait = callous
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8088.1.1 = {
@@ -10641,6 +10775,7 @@ Velaryon_rs_8 = {
 	trait = ambitious
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8097.6.1 = {
@@ -10676,6 +10811,7 @@ Velaryon_43 = {
 	trait = loyal
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	# canon_children_bastard_parent_status married_father_unmarried_mother
@@ -10727,6 +10863,7 @@ Velaryon_44 = {
 	trait = beauty_good_1
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	# canon_children_bastard_parent_status married_father_unmarried_mother
@@ -10809,6 +10946,7 @@ Velaryon_47 = {
 	trait = just
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8096.1.1 = {
@@ -10848,6 +10986,7 @@ Velaryon_50 = {
 	trait = brave
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8102.1.1 = {
@@ -11006,6 +11145,7 @@ Velaryon_53 = {
 	trait = calm
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8127.1.1 = {
@@ -11032,6 +11172,7 @@ Velaryon_51 = {
 
 	trait = beauty_good_1
 
+	trait = average_height
 	8134.1.1 = {
 		birth = yes
 		make_trait_inactive = cool_silver_hair
@@ -11117,6 +11258,7 @@ Velaryon_45 = {
 	# canon_children_bastard_parent_status unmarried_father_unmarried_mother
 	# canon_children_bastard_reveal canon_bastard_known_father_public
 
+	trait = average_height
 	8175.3.9 = { # Three years later than in Blood of Dragons
 		birth = yes
 		make_trait_inactive = silver_gold_hair
@@ -11150,6 +11292,7 @@ Velaryon_46 = {
 	# canon_children_bastard_parent_status unmarried_father_unmarried_mother
 	# canon_children_bastard_reveal canon_bastard_known_father_public
 
+	trait = average_height
 	8175.3.9 = { # Three years later than in Blood of Dragons
 		birth = yes
 		make_trait_inactive = neutral_silver_hair
@@ -11341,6 +11484,7 @@ Velaryon_hh_2 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	8110.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -11947,6 +12091,7 @@ Celtigar_15 = {
 
 	trait = education_stewardship_3
 
+	trait = average_height
 	7951.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -12145,6 +12290,7 @@ Celtigar_16 = {
 	trait = diligent
 	trait = patient
 
+	trait = average_height
 	7970.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -12204,6 +12350,7 @@ Celtigar_18 = {
 	trait = greedy
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7998.1.1 = {
@@ -12307,6 +12454,7 @@ Celtigar_20 = {
 
 	trait = brave
 
+	trait = average_height
 	8034.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -12328,6 +12476,7 @@ Celtigar_21 = {
 
 	trait = gregarious
 
+	trait = average_height
 	8035.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -12527,6 +12676,7 @@ Celtigar_24 = { # Dance of the Dragons
 	trait = greedy
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8085.1.1 = {
@@ -12597,6 +12747,7 @@ Celtigar_26 = { # Conquest of Dorne
 	father = Celtigar_24
 	mother = Bar_Emmon_21
 
+	trait = average_height
 	8107.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -12690,6 +12841,7 @@ Celtigar_28 = {
 
 	trait = brave
 
+	trait = average_height
 	8115.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -14083,6 +14235,7 @@ Scales_20 = {
 	trait = education_martial_2
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7994.1.1 = {
@@ -14990,6 +15143,7 @@ Tall_1 = {
 	trait = physique_good_3
 	trait = strong
 	trait = rowdy
+	trait = tall_4
 
 	disallow_random_traits = yes
 
@@ -15089,6 +15243,7 @@ Kingsguard_1 = {
 	trait = ambitious
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7951.1.1 = {
@@ -15129,6 +15284,7 @@ Kingsguard_2 = {
 	trait = compassionate
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8010.1.1 = {
@@ -15168,6 +15324,7 @@ Kingsguard_3 = {
 	trait = diligent
 	trait = brave
 
+	trait = average_height
 	8020.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -15207,6 +15364,7 @@ Kingsguard_4 = {
 	trait = diligent
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8030.1.1 = {
@@ -15247,6 +15405,7 @@ Kingsguard_5 = {
 	trait = stubborn
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7987.1.1 = {
@@ -15302,6 +15461,7 @@ Kingsguard_6 = {
 	trait = just
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8105.1.1 = {
@@ -15365,6 +15525,7 @@ Kingsguard_7 = {
 	trait = education_martial_prowess_3
 	trait = brave
 
+	trait = average_height
 	8177.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -15439,6 +15600,7 @@ Kingsguard_9 = {
 	trait = callous
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8191.1.1 = {
@@ -15482,6 +15644,7 @@ Kingsguard_11 = {
 	trait = lazy
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8149.1.1 = {
@@ -15594,6 +15757,7 @@ Septon_Kings_Landing_1 = {
 	trait = education_learning_2
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8000.1.1 = {
@@ -15642,6 +15806,7 @@ Septon_Kings_Landing_2 = {
 	trait = just
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8027.1.1 = {
@@ -15687,6 +15852,7 @@ Septon_Kings_Landing_3 = {
 	trait = education_learning_3
 	trait = compassionate
 
+	trait = average_height
 	7990.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -15729,6 +15895,7 @@ Grand_Maester_1 = {
 
 	trait = education_learning_4
 
+	trait = average_height
 	7934.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -15773,6 +15940,7 @@ Grand_Maester_2 = {
 	trait = education_learning_3
 	trait = diligent
 
+	trait = average_height
 	7952.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -15809,6 +15977,7 @@ Grand_Maester_3 = {
 	trait = diligent
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7972.1.1 = {
@@ -15846,6 +16015,7 @@ Grand_Maester_4 = {
 	trait = stubborn
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7987.1.1 = {
@@ -15877,6 +16047,7 @@ Grand_Maester_5 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	7997.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -15912,6 +16083,7 @@ Grand_Maester_6 = {
 	trait = ambitious #suggested Maegor to marry Clarisse Dayne in order to detach her lands from Dorne
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8002.1.1 = {
@@ -15948,6 +16120,7 @@ Grand_Maester_7 = {
 	trait = rude #sharp-tongued
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8022.1.1 = {
@@ -15974,6 +16147,7 @@ Grand_Maester_8 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	8037.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -15998,6 +16172,7 @@ Grand_Maester_9 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	8045.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -16024,6 +16199,7 @@ Grand_Maester_10 = {
 	trait = education_learning_3
 	trait = cynical
 
+	trait = average_height
 	8059.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -16051,6 +16227,7 @@ Grand_Maester_12 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	8082.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -16077,6 +16254,7 @@ Grand_Maester_13 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	8090.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -16156,6 +16334,7 @@ Grand_Maester_18 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	8120.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -16240,6 +16419,7 @@ Grand_Maester_22 = {
 	trait = education_learning_3
 	trait = inquisitive
 
+	trait = average_height
 	8130.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -16406,6 +16586,7 @@ Grand_Maester_29 = {
 	trait = education_learning_4
 	trait = inquisitive
 
+	trait = average_height
 	8166.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -16456,6 +16637,7 @@ Grand_Maester_31 = {
 	trait = deceitful
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8170.1.1 = {
@@ -16520,6 +16702,7 @@ Grand_Maester_34 = {
 	trait = education_learning_4
 	trait = just
 
+	trait = average_height
 	8170.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -16621,6 +16804,7 @@ Grand_Maester_39 = {
 	trait = diligent
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8180.1.1 = {
@@ -16655,6 +16839,7 @@ Grand_Maester_41 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	8161.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -16678,6 +16863,7 @@ Grand_Maester_42 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	8193.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -16708,6 +16894,7 @@ Maester_Kings_Landing_3 = {
 	trait = education_learning_3
 	trait = diligent
 
+	trait = average_height
 	7968.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -16747,6 +16934,7 @@ Maester_Kings_Landing_4 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	7998.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -16791,6 +16979,7 @@ Maester_Kings_Landing_5 = {
 	trait = just
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8081.1.1 = {
@@ -16850,6 +17039,7 @@ Maester_Kings_Landing_7 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	8149.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -16881,6 +17071,7 @@ Maester_Kings_Landing_8 = {
 
 	trait = education_learning_2
 
+	trait = average_height
 	8166.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -16913,6 +17104,7 @@ Maester_Kings_Landing_9 = {
 	trait = content
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8114.1.1 = {
@@ -16992,6 +17184,7 @@ Knight_Kings_Landing_5 = {
 	religion = fots_seven
 	culture = crownlander
 
+		trait = average_height
 	8003.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -17028,6 +17221,7 @@ Poor_Fellows_1 = {
 	trait = authoritative
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8011.1.1 = {
@@ -17066,6 +17260,7 @@ Poor_Fellows_2 = {
 	trait = authoritative
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8011.1.1 = {
@@ -17090,6 +17285,7 @@ Poor_Fellows_3 = {
 	trait = intellect_good_1
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8020.1.1 = {
@@ -17121,6 +17317,7 @@ Poor_Fellows_4 = {
 
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8010.1.1 = {
@@ -17159,6 +17356,7 @@ Poor_Fellows_5 = {
 	trait = clubfooted
 	give_nickname = nick_agot_historical_the_lame_Poor_Fellows_5
 
+	trait = average_height
 	8015.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -17176,6 +17374,7 @@ Poor_Fellows_6 = {
 	trait = zealous
 	trait = brave
 
+	trait = average_height
 	8012.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -17193,6 +17392,7 @@ Poor_Fellows_7 = {
 
 	trait = education_learning_2
 
+	trait = average_height
 	8010.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -17215,6 +17415,7 @@ Poor_Fellows_8 = {
 	trait = education_martial_1
 	trait = weak
 
+	trait = average_height
 	8011.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -17249,6 +17450,7 @@ Tyanna_1 = {
 	trait = beauty_good_2
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8020.1.1 = {
@@ -17304,6 +17506,7 @@ Knight_Kings_Landing_6 = {
 	trait = education_martial_2
 	trait = intellect_good_2
 
+	trait = average_height
 	8020.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -17327,6 +17530,7 @@ Knight_Kings_Landing_7 = {
 	trait = ambitious
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8022.1.1 = {
@@ -17368,6 +17572,7 @@ Septon_Kings_Landing_5 = {
 	trait = inquisitive
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8020.1.1 = {
@@ -17399,6 +17604,7 @@ Septon_Kings_Landing_6 = {
 	trait = gregarious
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8022.1.1 = {
@@ -17430,6 +17636,7 @@ Septon_Kings_Landing_7 = {
 	trait = arbitrary
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8001.1.1 = {
@@ -17454,6 +17661,7 @@ Septon_Kings_Landing_8 = {
 	trait = arbitrary
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8015.1.1 = {
@@ -17485,6 +17693,7 @@ Septon_Kings_Landing_9 = {
 	trait = authoritative
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7980.1.1 = {
@@ -17573,6 +17782,7 @@ Targaryen_hh_3 = {
 	trait = deceitful
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8084.1.1 = {
@@ -17630,6 +17840,7 @@ Targaryen_hh_4 = {
 	trait = beauty_bad_2
 	trait = curious
 
+	trait = short_5
 	disallow_random_traits = yes
 
 	8095.1.1 = {
@@ -17676,6 +17887,7 @@ Targaryen_hh_5 = {
 	trait = education_stewardship_1
 	trait = gluttonous
 
+	trait = average_height
 	8089.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -17710,6 +17922,7 @@ Lowborn_Kings_Landing_2 = {
 	trait = vengeful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8092.1.1 = {
@@ -17741,6 +17954,7 @@ Septon_Kings_Landing_4 = {
 	trait = zealous
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8073.1.1 = {
@@ -17809,6 +18023,7 @@ Knight_Kings_Landing_8 = {
 	trait = diligent
 	trait = brave
 
+	trait = average_height
 	8104.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -17836,6 +18051,7 @@ Knight_Kings_Landing_9 = {
 
 	give_nickname = nick_agot_historical_the_harelip
 
+	trait = average_height
 	8090.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -17938,6 +18154,7 @@ Knight_Kings_Landing_17 = {
 	trait = vengeful
 	trait = rowdy
 
+	trait = tall_5
 	disallow_random_traits = yes
 
 	8100.1.1 = {
@@ -18055,6 +18272,7 @@ Silver_Denys_3 = {
 	trait = brave
 	trait = ambitious
 
+	trait = average_height
 	8074.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -18168,6 +18386,7 @@ Tangletongue_3 = {
 	trait = education_intrigue_2
 	trait = stuttering
 
+	trait = average_height
 	8085.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -18204,6 +18423,7 @@ Tangletongue_4 = {
 	trait = education_intrigue_1
 	trait = stuttering
 
+	trait = average_height
 	8104.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -18243,6 +18463,7 @@ The_Shepherd_1 = {
 	trait = stubborn
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8057.1.1 = {
@@ -18287,6 +18508,7 @@ Targaryen_hh_6 = {
 	trait = callous
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8094.1.1 = {
@@ -18337,6 +18559,7 @@ Targaryen_hh_7 = {
 	trait = physique_good_3
 	trait = brave
 
+	trait = average_height
 	8099.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -18387,6 +18610,7 @@ Lowborn_Kings_Landing_3 = {
 	trait = gregarious
 	trait = compassionate
 
+	trait = average_height
 	8137.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -18443,6 +18667,7 @@ Lowborn_Kings_Landing_5 = {
 
 	trait = education_intrigue_3
 
+	trait = average_height
 	8172.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -18545,6 +18770,7 @@ Targaryen_hh_10 = {
 	trait = gregarious
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	give_nickname = nick_agot_historical_of_oldstones

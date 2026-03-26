@@ -14,6 +14,7 @@ Boarhell_1 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8225.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon

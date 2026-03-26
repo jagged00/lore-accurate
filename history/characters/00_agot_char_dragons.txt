@@ -345,6 +345,7 @@ dragon_balerion = {
 	trait = dragon_imperious
 	trait = dragon_bloodthirsty
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7842.4.23 = {
@@ -586,6 +587,7 @@ dragon_meraxes = {
 	trait = dragon_calculating
 	trait = dragon_skittish
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7925.1.1 = {
@@ -669,6 +671,7 @@ dragon_vhagar = {
 	trait = dragon_accepting
 	trait = dragon_impulsive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7949.1.1 = {
@@ -779,6 +782,7 @@ dragon_quicksilver = {
 	trait = dragon_restrained
 	trait = dragon_impulsive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8007.1.1 = {
@@ -896,6 +900,7 @@ dragon_cannibal = {
 	trait = dragon_voracious
 	trait = dragon_defiant
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8017.1.1 = {
@@ -1068,6 +1073,7 @@ dragon_dreamfyre = {
 	trait = dragon_defiant
 	trait = dragon_fertile
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8029.1.1 = {
@@ -1160,6 +1166,7 @@ dragon_vermithor = {
 	trait = dragon_imperious
 	trait = dragon_aggressive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8034.9.20 = {
@@ -1238,6 +1245,7 @@ dragon_silverwing = {
 	trait = dragon_friendly
 	trait = dragon_fertile
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8036.6.1 = {
@@ -1499,6 +1507,7 @@ dragon_meleys = {
 	trait = dragon_accepting
 	trait = dragon_restrained
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8036.1.1 = {
@@ -1791,6 +1800,7 @@ dragon_caraxes = {
 	trait = dragon_bloodthirsty # So sayeth dragonkeepers
 	trait = dragon_calculating # Considered cunning
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8050.1.1 = {
@@ -1988,6 +1998,7 @@ dragon_sheepstealer = {
 	trait = dragon_defiant
 	trait = dragon_aggressive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8056.1.1 = {
@@ -2075,6 +2086,7 @@ dragon_grey_ghost = {
 	trait = dragon_calculating
 	trait = dragon_skittish
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8087.1.1 = {
@@ -2115,6 +2127,7 @@ dragon_sunfyre = {
 	trait = dragon_imperious
 	trait = dragon_bloodthirsty
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8088.1.1 = {
@@ -2183,6 +2196,7 @@ dragon_tessarion = {
 	trait = dragon_impulsive
 	trait = dragon_swift # Actions in dance
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8100.1.1 = {
@@ -2382,6 +2396,7 @@ dragon_syrax = {
 	trait = dragon_calculating # Docile
 	trait = dragon_fertile
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8087.1.1 = {
@@ -2464,6 +2479,7 @@ dragon_seasmoke = {
 	trait = dragon_calculating
 	trait = dragon_solitary
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8094.1.1 = {
@@ -2533,6 +2549,7 @@ dragon_moondancer = {
 
 	# disallow_random_traits = yes # FORBIDDEN - use agot_scripted_effects_posthistory_effects instead
 
+	trait = average_height
 	8121.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2633,6 +2650,7 @@ dragon_shrykos = {
 
 	# disallow_random_traits = yes # FORBIDDEN - use agot_scripted_effects_posthistory_effects instead
 
+	trait = average_height
 	8123.4.13 = {
 		birth = yes # Craddle-Egg of Jaehaerys Targaryen
 		add_character_flag = canon_status_canon
@@ -2676,6 +2694,7 @@ dragon_morghul = {
 
 	# disallow_random_traits = yes # FORBIDDEN - use agot_scripted_effects_posthistory_effects instead
 
+	trait = average_height
 	8123.4.13 = {
 		birth = yes # Craddle-Egg of Jaehaera Targaryen
 		add_character_flag = canon_status_canon
@@ -2724,6 +2743,7 @@ dragon_vermax = {
 
 	# disallow_random_traits = yes # FORBIDDEN - use agot_scripted_effects_posthistory_effects instead
 
+	trait = average_height
 	8114.11.29 = {
 		birth = yes # Craddle-Egg of Jacaerys Velaryon
 		add_character_flag = canon_status_canon
@@ -2792,6 +2812,7 @@ dragon_arrax = {
 
 	# disallow_random_traits = yes # FORBIDDEN - use agot_scripted_effects_posthistory_effects instead
 
+	trait = average_height
 	8115.10.3 = {
 		birth = yes # Craddle-Egg of Lucerys Velaryon
 		add_character_flag = canon_status_canon
@@ -2859,6 +2880,7 @@ dragon_tyraxes = {
 
 	# disallow_random_traits = yes # FORBIDDEN - use agot_scripted_effects_posthistory_effects instead
 
+	trait = average_height
 	8117.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2916,6 +2938,7 @@ dragon_stormcloud = {
 
 	# disallow_random_traits = yes # FORBIDDEN - use agot_scripted_effects_posthistory_effects instead
 
+	trait = average_height
 	8124.4.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2960,6 +2983,7 @@ dragon_morning = {
 	trait = dragon_friendly # "everywhere that Rhaena went came Morning, her young dragon, oft as not coiled about her shoulders like a stole."
 	trait = dragon_accepting
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8131.1.1 = {
@@ -3161,6 +3185,7 @@ dragon_drogon = {
 	trait = dragon_defiant
 	trait = dragon_voracious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8299.1.22 = {
@@ -3209,6 +3234,7 @@ dragon_rhaegal = {
 	trait = dragon_physique_good_2
 	trait = dragon_defiant
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8299.1.22 = {
@@ -3255,6 +3281,7 @@ dragon_viserion = {
 	trait = dragon_voracious
 	trait = dragon_aggressive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8299.1.22 = {
@@ -3582,6 +3609,7 @@ dragon_terrax = {
 	trait = dragon
 	trait = education_dragon_4
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7809.1.1 = {
@@ -3632,6 +3660,7 @@ dragon_nagga = {
 	trait = dragon_physique_good_3
 	trait = dragon_aggressive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	18.1.1 = {
@@ -3683,6 +3712,7 @@ dragon_urrax = {
 			}
 		}
 	}
+	trait = average_height
 	112.1.1 = {
 		make_unprunable = yes
 		death = {

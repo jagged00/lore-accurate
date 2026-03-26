@@ -28,6 +28,7 @@ Mopatis_1 = {
 	trait = gregarious
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8255.1.1 = {
@@ -86,6 +87,7 @@ Mopatis_hh_1 = {
 
 	trait = beauty_good_2
 
+	trait = average_height
 	8258.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -273,6 +275,7 @@ Myrakis_31 = {
 	trait = education_martial_3
 	trait = education_martial_prowess_3
 
+	trait = average_height
 	8256.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3664,6 +3667,7 @@ Malanon_1 = {
 
 	trait = education_stewardship_2
 
+	trait = average_height
 	8238.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3684,6 +3688,7 @@ Groleo_1 = {
 	trait = diligent
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8240.1.1 = {
@@ -5516,6 +5521,7 @@ Togaraz_96 = {
 	trait = ambitious
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8238.1.1 = {
@@ -12306,6 +12312,7 @@ Istarion_84 = {
 	trait = patient
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8257.1.1 = {

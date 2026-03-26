@@ -1280,6 +1280,7 @@ Otherys_56_A = {
 	trait = authoritative
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8131.1.1 = {
@@ -1506,6 +1507,7 @@ Targaryen_102 = {
 	# canon_children_bastard_parent_status married_father_unmarried_mother
 	# canon_children_bastard_reveal canon_bastard_known_father_public
 
+	trait = average_height
 	8163.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -1547,6 +1549,7 @@ Targaryen_103 = {
 	# canon_children_bastard_parent_status married_father_unmarried_mother
 	# canon_children_bastard_reveal canon_bastard_known_father_public
 
+	trait = average_height
 	8165.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1577,6 +1580,7 @@ Targaryen_104 = {
 	# canon_children_bastard_parent_status married_father_unmarried_mother
 	# canon_children_bastard_reveal canon_bastard_known_father_public
 
+	trait = average_height
 	8168.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -14283,6 +14287,7 @@ Zalyne_1_A = {
 	trait = generous
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7404.1.1 = {
@@ -30568,6 +30573,7 @@ Erastes_9_B = {
 	trait = inquisitive
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7922.1.1 = {

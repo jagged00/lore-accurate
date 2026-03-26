@@ -170,6 +170,7 @@ Otherys_BP_4 = {
 
 	trait = beauty_good_1
 
+	trait = average_height
 	8254.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -207,6 +208,7 @@ Otherys_BP_5 = {
 
 	trait = beauty_good_2
 
+	trait = average_height
 	8276.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -1110,6 +1112,7 @@ Reyaan_57 = {
 
 	trait = gluttonous
 
+	trait = average_height
 	8248.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2203,6 +2206,7 @@ Dothare_73 = {
 
 	trait = rude
 
+	trait = average_height
 	8274.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2218,6 +2222,7 @@ Dothare_74 = {
 	father = Dothare_52_B
 	mother = Qarghas_79
 
+	trait = average_height
 	8276.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3672,6 +3677,7 @@ Forel_51_A = {
 	trait = patient
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8255.1.1 = {
@@ -3731,6 +3737,7 @@ Forel_51_B = {
 
 	trait = inquisitive
 
+	trait = average_height
 	8261.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -4426,6 +4433,7 @@ Antaryon_64 = {
 	father = Antaryon_rs_60
 	mother = Antaryon_60
 
+		trait = average_height
 	8257.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -5211,6 +5219,7 @@ Dimittis_53 = {
 	trait = education_stewardship_3
 	trait = stubborn
 
+	trait = average_height
 	8259.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -5745,6 +5754,7 @@ Fregar_66 = {
 
 	trait = authoritative
 
+	trait = average_height
 	8248.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -7027,6 +7037,7 @@ Terys_83_B = {
 	trait = greedy
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8253.1.1 = {
@@ -7047,6 +7058,7 @@ Terys_91 = {
 	father = Terys_83_B
 	mother = Vaar_36
 
+	trait = average_height
 	8284.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -7063,6 +7075,7 @@ Terys_92 = {
 	father = Terys_83_B
 	mother = Vaar_36
 
+	trait = average_height
 	8288.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -7578,6 +7591,7 @@ Prestayn_56 = {
 	father = Prestayn_41
 	mother = Uffering_83
 
+	trait = average_height
 	8245.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -7668,6 +7682,7 @@ Prestayn_49 = {
 	father = Prestayn_44
 	mother = Massey_69
 
+	trait = average_height
 	8265.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -7922,6 +7937,7 @@ Nestoris_54 = {
 	trait = education_diplomacy_3
 	trait = gregarious
 
+	trait = average_height
 	8253.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -8331,6 +8347,7 @@ Volentin_51 = {
 	trait = education_martial_3
 	trait = education_martial_prowess_3
 
+	trait = average_height
 	8266.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -8570,6 +8587,7 @@ Tendyris_45 = {
 	father = Tendyris_38
 	mother = Diterys_44
 
+	trait = average_height
 	8245.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -12786,6 +12804,7 @@ Courtesan_1 = {
 
 	trait = beauty_good_2
 
+	trait = average_height
 	8275.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -12809,6 +12828,7 @@ Courtesan_2 = {
 	trait = beauty_good_2
 	trait = gregarious
 
+	trait = average_height
 	8272.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -12831,6 +12851,7 @@ Courtesan_3 = {
 
 	trait = beauty_good_3
 
+	trait = average_height
 	8275.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -12853,6 +12874,7 @@ Courtesan_4 = {
 
 	trait = beauty_good_2
 
+	trait = average_height
 	8277.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -12877,6 +12899,7 @@ Courtesan_5 = {
 
 	trait = beauty_good_2
 
+	trait = average_height
 	8272.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -12931,6 +12954,7 @@ Courtesan_7 = {
 	trait = beauty_good_2
 	trait = arrogant
 
+	trait = average_height
 	8282.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -13017,6 +13041,7 @@ Lowborn_Braavos_2 = {
 	religion = fc_pan_braavos
 	culture = braavosi
 
+	trait = average_height
 	8251.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -13038,6 +13063,7 @@ Lowborn_Braavos_9 = {
 	trait = diligent
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8248.1.1 = {
@@ -13058,6 +13084,7 @@ Lowborn_Braavos_3 = {
 
 	trait = diligent
 
+	trait = average_height
 	8255.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -13110,6 +13137,7 @@ Lowborn_Braavos_5 = {
 	father = Lowborn_Braavos_3
 	mother = Lowborn_Braavos_rs_3
 
+	trait = average_height
 	8284.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -13164,6 +13192,7 @@ Lowborn_Braavos_8 = {
 
 	trait = lazy
 
+	trait = average_height
 	8287.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon

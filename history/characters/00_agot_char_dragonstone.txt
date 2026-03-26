@@ -28,6 +28,7 @@ Targaryen_1 = {
 	trait = arbitrary
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8243.6.1 = { # 18 on ascension
@@ -276,6 +277,7 @@ Targaryen_2 = {
 	trait = education_diplomacy_1
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8245.1.1 = {
@@ -330,6 +332,7 @@ Targaryen_3 = {
 	trait = beauty_good_3
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	# canon_children_alt_name = Rhaenyra
@@ -443,6 +446,7 @@ Targaryen_4 = {
 
 	trait = beauty_good_1
 
+	trait = average_height
 	8267.6.1 = {
 		birth = yes
 		make_trait_inactive = cool_silver_hair
@@ -467,6 +471,7 @@ Targaryen_5 = {
 	trait = beauty_good_1
 	trait = sickly
 
+	trait = average_height
 	8269.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -518,6 +523,7 @@ Targaryen_6 = {
 	trait = intellect_good_1
 	trait = sickly # Premature
 
+	trait = average_height
 	8272.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -543,6 +549,7 @@ Targaryen_7 = {
 
 	trait = sickly
 
+	trait = average_height
 	8274.7.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -574,6 +581,7 @@ Targaryen_8 = {
 	trait = education_diplomacy_3
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8276.1.1 = {
@@ -677,6 +685,7 @@ Targaryen_9 = {
 	trait = beauty_good_3
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	give_nickname = nick_agot_historical_stormborn
@@ -855,6 +864,7 @@ Targaryen_10 = {
 	father = Targaryen_3
 	mother = Martell_7
 
+	trait = average_height
 	8280.9.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -927,6 +937,7 @@ Targaryen_11 = {
 	trait = beauty_good_2
 	trait = intellect_good_1
 
+	trait = average_height
 	8282.1.1 = {
 		birth = yes
 		make_trait_inactive = cool_neutral_silver_hair
@@ -967,6 +978,7 @@ Targaryen_12 = {
 	trait = intellect_good_1
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8282.1.1 = {
@@ -1311,6 +1323,7 @@ Velaryon_1 = {
 	trait = brave
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8244.1.1 = {
@@ -1485,6 +1498,7 @@ Velaryon_2 = {
 	trait = beauty_good_2
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8268.1.1 = {
@@ -1535,6 +1549,7 @@ Velaryon_5 = {
 	trait = intellect_good_1
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	# canon_children_bastard_parent_status married_father_unmarried_mother
@@ -1580,6 +1595,7 @@ Velaryon_3 = {
 
 	trait = beauty_good_2
 
+	trait = average_height
 	8293.1.1 = {
 		birth = yes
 		make_trait_inactive = silver_gold_hair
@@ -1924,6 +1940,7 @@ Celtigar_2 = {
 	trait = content
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8243.1.1 = {
@@ -2349,6 +2366,7 @@ Scales_22 = {
 
 	trait = education_martial_1
 
+	trait = average_height
 	8264.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2459,6 +2477,7 @@ Longwaters_2 = {
 	trait = education_stewardship_2
 	trait = arrogant
 
+	trait = average_height
 	8224.1.1 = {
 		birth = yes
 		make_trait_inactive = silver_blonde_hair
@@ -2600,6 +2619,7 @@ Pycelle_1 = {
 	trait = arbitrary
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8216.9.1 = {
@@ -2644,6 +2664,7 @@ Maester_Kings_Landing_1 = {
 	trait = patient
 	trait = content
 
+	trait = average_height
 	8231.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2681,6 +2702,7 @@ Maester_Kings_Landing_2 = {
 	trait = deceitful
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8239.1.1 = {
@@ -2757,6 +2779,7 @@ Eunuch_1 = {
 	trait = diligent
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8257.1.1 = {
@@ -2848,6 +2871,7 @@ Targaryen_hh_2 = {
 	trait = education_intrigue_3
 	trait = intellect_bad_1
 
+	trait = average_height
 	8280.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2885,6 +2909,7 @@ Lowborn_Kings_Landing_1 = {
 	trait = beauty_good_3
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8280.1.1 = {
@@ -2941,6 +2966,7 @@ Lowborn_Kings_Landing_7 = {
 	trait = diligent
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8264.1.1 = {
@@ -2962,6 +2988,7 @@ Lowborn_Kings_Landing_8 = {
 	trait = just
 	trait = charming
 
+	trait = average_height
 	8283.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2984,6 +3011,7 @@ Knight_Kings_Landing_2 = {
 	trait = ambitious
 	trait = physique_good_1
 	trait = brave
+	trait = tall_2
 	trait = gregarious
 	trait = charming
 
@@ -3036,6 +3064,7 @@ Knight_Kings_Landing_3 = {
 	trait = strong
 	trait = rowdy
 
+	trait = tall_5
 	disallow_random_traits = yes
 
 	8265.1.1 = {
@@ -3090,6 +3119,7 @@ Deem_1 = {
 	trait = arrogant
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8263.1.1 = {
@@ -3118,6 +3148,7 @@ Musician_1 = {
 	trait = education_diplomacy_2
 	trait = charming
 
+	trait = average_height
 	8235.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3158,6 +3189,7 @@ Musician_2 = {
 	trait = education_intrigue_1
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8265.1.1 = {
@@ -3197,6 +3229,7 @@ Pyromancer_1 = {
 	trait = education_intrigue_3
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8249.1.1 = {
@@ -3239,6 +3272,7 @@ Pyromancer_2 = {
 	trait = education_learning_2
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8246.1.1 = {
@@ -3269,6 +3303,7 @@ Pyromancer_3 = {
 	trait = education_learning_2
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8249.1.1 = {
@@ -3298,6 +3333,7 @@ Pyromancer_5 = {
 
 	trait = education_learning_2
 
+	trait = average_height
 	8225.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3314,6 +3350,7 @@ Pyromancer_4 = {
 	trait = education_learning_3
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8262.1.1 = {
@@ -3338,6 +3375,7 @@ Pyromancer_6 = {
 
 	trait = education_learning_2
 
+	trait = average_height
 	8260.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3352,6 +3390,7 @@ Pyromancer_7 = {
 
 	trait = education_learning_2
 
+	trait = average_height
 	8270.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon

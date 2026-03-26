@@ -23,6 +23,7 @@ Xho_1 = {
 	trait = gregarious
 	trait = fashionable #he's drippy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8268.1.1 = {

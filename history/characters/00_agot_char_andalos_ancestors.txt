@@ -1087,6 +1087,7 @@ Golathis_64 = {
 	trait = education_learning_3
 	trait = inquisitive
 
+	trait = average_height
 	8204.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon

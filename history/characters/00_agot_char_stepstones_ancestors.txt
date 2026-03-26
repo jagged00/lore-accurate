@@ -232,6 +232,7 @@ Saan_13 = {
 	trait = gregarious
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7975.1.1 = {
@@ -496,6 +497,7 @@ Saan_18 = {
 	trait = brave
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8102.1.1 = {
@@ -3409,6 +3411,7 @@ Uhoris_2 = {
 	trait = education_stewardship_2
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8226.1.1 = {

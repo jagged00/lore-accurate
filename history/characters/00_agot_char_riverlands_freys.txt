@@ -32,6 +32,7 @@ Frey_1 = {
 	trait = ambitious
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8208.10.1 = {
@@ -189,6 +190,7 @@ Frey_2 = {
 	trait = just
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8234.1.1 = {
@@ -238,6 +240,7 @@ Frey_3 = {
 	trait = greedy
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8250.1.1 = {
@@ -288,6 +291,7 @@ Frey_4 = {
 	trait = generous
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8251.12.1 = {
@@ -323,6 +327,7 @@ Frey_5 = {
 	father = Frey_2 # Stevron Frey
 	mother = Lydden_2 # Jeyne Lydden
 
+	trait = average_height
 	8252.8.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -352,6 +357,7 @@ Frey_6 = {
 	trait = content
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8255.1.1 = {
@@ -386,6 +392,7 @@ Frey_7 = {
 	trait = paranoid
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8269.1.1 = {
@@ -433,6 +440,7 @@ Frey_8 = {
 	trait = ambitious
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8271.1.1 = {
@@ -489,6 +497,7 @@ Frey_9 = {
 	trait = beauty_bad_2
 	trait = craven
 
+	trait = average_height
 	8281.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -519,6 +528,7 @@ Frey_10 = {
 
 	trait = disputed_heritage
 
+	trait = average_height
 	8291.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -539,6 +549,7 @@ Frey_11 = {
 
 	trait = disputed_heritage
 
+	trait = average_height
 	8294.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -560,6 +571,7 @@ Frey_12 = {
 	trait = compassionate
 	trait = gregarious
 
+	trait = average_height
 	8278.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -583,6 +595,7 @@ Frey_13 = {
 
 	trait = beauty_good_2
 
+	trait = average_height
 	8281.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -603,6 +616,7 @@ Frey_14 = {
 	father = Frey_6
 	mother = Hardyng_6
 
+	trait = average_height
 	8282.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -639,6 +653,7 @@ Frey_15 = {
 	trait = dull
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8238.1.1 = {
@@ -689,6 +704,7 @@ Frey_16 = {
 	trait = just
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8265.1.1 = {
@@ -732,6 +748,7 @@ Frey_17 = {
 	trait = education_martial_2
 	trait = arrogant
 
+	trait = average_height
 	8276.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -762,6 +779,7 @@ Frey_18 = {
 	father = Frey_15
 	mother = Lannister_3
 
+	trait = average_height
 	8284.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -806,6 +824,7 @@ Frey_19 = {
 	father = Frey_15
 	mother = Lannister_3
 
+	trait = average_height
 	8285.2.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -829,6 +848,7 @@ Frey_20 = {
 	father = Frey_16
 	mother = Darry_9
 
+	trait = average_height
 	8288.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -855,6 +875,7 @@ Frey_21 = {
 	father = Frey_16
 	mother = Darry_9
 
+	trait = average_height
 	8290.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -897,6 +918,7 @@ Frey_22 = {
 	trait = deceitful
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8242.1.1 = {
@@ -928,6 +950,7 @@ Frey_23 = {
 	father = Frey_1
 	mother = Royce_80
 
+	trait = average_height
 	8244.10.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -961,6 +984,7 @@ Frey_24 = {
 	trait = callous
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8262.1.1 = {
@@ -1004,6 +1028,7 @@ Frey_25 = {
 	trait = arbitrary
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8270.1.1 = {
@@ -1031,6 +1056,7 @@ Frey_26 = {
 	father = Frey_25
 	mother = Beesbury_6
 
+	trait = average_height
 	8286.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1047,6 +1073,7 @@ Frey_27 = {
 	father = Frey_25
 	mother = Beesbury_6
 
+	trait = average_height
 	8289.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1063,6 +1090,7 @@ Frey_28 = {
 	father = Frey_25
 	mother = Beesbury_6
 
+	trait = average_height
 	8291.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1096,6 +1124,7 @@ Frey_29 = {
 	trait = arrogant
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8248.1.1 = {
@@ -1141,6 +1170,7 @@ Frey_30 = {
 	trait = zealous
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8249.1.1 = {
@@ -1175,6 +1205,7 @@ Frey_31 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8266.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1201,6 +1232,7 @@ Frey_32 = {
 	father = Frey_29
 	mother = Frey_99
 
+	trait = average_height
 	8267.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -1220,6 +1252,7 @@ Frey_33 = {
 	father = Frey_31
 	mother = Blanetree_22
 
+	trait = average_height
 	8285.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1240,6 +1273,7 @@ Frey_34 = {
 	trait = education_learning_2
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8287.1.1 = {
@@ -1287,6 +1321,7 @@ Frey_35 = {
 	trait = physique_good_2
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8257.1.1 = {
@@ -1329,6 +1364,7 @@ Frey_36 = {
 
 	trait = physique_good_1
 
+	trait = average_height
 	8259.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -1357,6 +1393,7 @@ Frey_37 = {
 	trait = physique_good_1
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8260.1.1 = {
@@ -1403,6 +1440,7 @@ Frey_38 = {
 	trait = physique_good_1
 	trait = rowdy
 
+	trait = average_height
 	8261.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -1457,6 +1495,7 @@ Frey_39 = {
 	trait = wrathful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8262.1.1 = {
@@ -1521,6 +1560,7 @@ Frey_40 = {
 	trait = arbitrary
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8263.1.1 = {
@@ -1549,6 +1589,7 @@ Frey_41 = {
 	trait = education_martial_2
 	trait = callous
 
+	trait = average_height
 	8264.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -1575,6 +1616,7 @@ Frey_42 = {
 	trait = education_martial_2
 	trait = craven
 
+	trait = average_height
 	8274.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1598,6 +1640,7 @@ Frey_43 = {
 	father = Frey_42
 	mother = RoyceGOTM_13
 
+	trait = average_height
 	8294.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1617,6 +1660,7 @@ Frey_44 = {
 
 	trait = twin
 
+	trait = average_height
 	8296.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1636,6 +1680,7 @@ Frey_45 = {
 
 	trait = twin
 
+	trait = average_height
 	8296.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1654,6 +1699,7 @@ Frey_46 = {
 	father = Frey_42
 	mother = RoyceGOTM_13
 
+	trait = average_height
 	8300.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1678,6 +1724,7 @@ Frey_47 = {
 	trait = gregarious
 	trait = just
 
+	trait = average_height
 	8278.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -1702,6 +1749,7 @@ Frey_48 = {
 
 	trait = beauty_good_2
 
+	trait = average_height
 	8282.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -1718,6 +1766,7 @@ Frey_49 = {
 	father = Frey_37
 	mother = Frey_hh_1
 
+	trait = average_height
 	8289.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1748,6 +1797,7 @@ Frey_50 = {
 	trait = compassionate
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8282.1.1 = {
@@ -1781,6 +1831,7 @@ Frey_52 = {
 	trait = arrogant
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8284.1.1 = {
@@ -1810,6 +1861,7 @@ Frey_53 = {
 	father = Frey_39
 	mother = Darry_5
 
+	trait = average_height
 	8286.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1831,6 +1883,7 @@ Frey_54 = {
 	trait = physique_good_2
 	trait = rowdy
 
+	trait = short_2
 	disallow_random_traits = yes
 
 	8291.4.1 = {
@@ -1876,6 +1929,7 @@ Frey_55 = {
 	father = Frey_40
 	mother = Waynwood_18
 
+	trait = average_height
 	8287.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1898,6 +1952,7 @@ Frey_56 = {
 	father = Frey_40
 	mother = Waynwood_18
 
+	trait = average_height
 	8290.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1924,6 +1979,7 @@ Frey_57 = {
 	father = Frey_41
 	mother = Beesbury_4
 
+	trait = average_height
 	8283.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -1963,6 +2019,7 @@ Frey_58 = {
 	trait = education_intrigue_3
 	trait = inquisitive
 
+	trait = average_height
 	8284.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -1991,6 +2048,7 @@ Frey_59 = {
 	trait = twin
 	trait = beauty_bad_1
 
+	trait = average_height
 	8285.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2013,6 +2071,7 @@ Frey_60 = {
 	trait = twin
 	trait = beauty_bad_1
 
+	trait = average_height
 	8285.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2032,6 +2091,7 @@ Frey_61 = {
 	father = Frey_41
 	mother = Beesbury_4
 
+	trait = short_2
 	8293.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2051,6 +2111,7 @@ Frey_62 = {
 
 	trait = twin
 
+	trait = average_height
 	8299.12.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2068,6 +2129,7 @@ Frey_63 = {
 
 	trait = twin
 
+	trait = average_height
 	8299.12.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2085,6 +2147,7 @@ Frey_hh_1 = {
 
 	trait = beauty_good_1
 
+	trait = average_height
 	8261.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2104,6 +2167,7 @@ Frey_51 = {
 	trait = greedy
 	trait = brave
 
+	trait = average_height
 	8278.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2147,6 +2211,7 @@ Frey_64 = {
 	trait = deceitful
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8266.1.1 = {
@@ -2177,6 +2242,7 @@ Frey_65 = {
 	father = Frey_1
 	mother = Blackwood_5
 
+	trait = average_height
 	8267.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2196,6 +2262,7 @@ Frey_66 = {
 	father = Frey_1
 	mother = Blackwood_5
 
+	trait = average_height
 	8268.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2218,6 +2285,7 @@ Frey_67 = {
 	father = Frey_1
 	mother = Blackwood_5
 
+	trait = average_height
 	8269.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2236,6 +2304,7 @@ Frey_68 = {
 	father = Frey_1
 	mother = Blackwood_5
 
+	trait = average_height
 	8270.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2255,6 +2324,7 @@ Frey_69 = {
 	father = Frey_64
 	mother = Lefford_3
 
+	trait = average_height
 	8292.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2271,6 +2341,7 @@ Frey_70 = {
 	father = Frey_64
 	mother = Lefford_3
 
+	trait = average_height
 	8295.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2287,6 +2358,7 @@ Frey_71 = {
 	father = Frey_64
 	mother = Lefford_3
 
+	trait = average_height
 	8297.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2303,6 +2375,7 @@ Frey_72 = {
 	father = Frey_64
 	mother = Lefford_3
 
+	trait = average_height
 	8300.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2323,6 +2396,7 @@ Frey_73 = {
 	trait = education_intrigue_4
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8291.2.8 = {
@@ -2361,6 +2435,7 @@ Frey_74 = {
 	father = Frey_65
 	mother = Paege_3
 
+	trait = average_height
 	8294.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2378,6 +2453,7 @@ Frey_75 = {
 	father = Frey_65
 	mother = Paege_3
 
+	trait = average_height
 	8294.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2394,6 +2470,7 @@ Frey_76 = {
 	father = Frey_66
 	mother = Paege_2
 
+	trait = average_height
 	8287.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2415,6 +2492,7 @@ Frey_77 = {
 	father = Frey_66
 	mother = Paege_2
 
+	trait = average_height
 	8288.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2441,6 +2519,7 @@ Frey_78 = {
 	trait = compassionate
 	trait = honest
 
+	trait = average_height
 	8277.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2475,6 +2554,7 @@ Frey_79 = {
 	father = Frey_1
 	mother = Rosby_3
 
+		trait = average_height
 	8278.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2512,6 +2592,7 @@ Frey_80 = {
 
 	trait = education_learning_2
 
+	trait = average_height
 	8279.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2545,6 +2626,7 @@ Frey_81 = {
 	trait = brave
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8281.1.1 = {
@@ -2579,6 +2661,7 @@ Frey_82 = {
 	trait = shy
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8283.1.1 = {
@@ -2599,6 +2682,7 @@ Frey_83 = {
 	father = Frey_79
 	mother = Frey_101
 
+	trait = average_height
 	8296.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2614,6 +2698,7 @@ Frey_84 = {
 	father = Frey_79
 	mother = Frey_101
 
+	trait = average_height
 	8297.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2635,6 +2720,7 @@ Frey_85 = {
 	father = Frey_1
 	mother = Farring_4
 
+		trait = average_height
 	8285.6.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2654,6 +2740,7 @@ Frey_86 = {
 	father = Frey_1
 	mother = Farring_4
 
+		trait = average_height
 	8286.5.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2683,6 +2770,7 @@ Frey_87 = {
 	trait = education_learning_1
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8288.4.1 = {
@@ -2714,6 +2802,7 @@ Frey_88 = {
 	father = Frey_1
 	mother = Farring_4
 
+		trait = average_height
 	8289.3.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2736,6 +2825,7 @@ Frey_89 = {
 	trait = education_martial_1
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8290.2.1 = {
@@ -2768,6 +2858,7 @@ Frey_90 = {
 	# canon_children_bastard_parent_status unmarried_father_married_mother
 	# canon_children_bastard_reveal canon_bastard_unknown_father
 
+		trait = average_height
 	8293.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2803,6 +2894,7 @@ Crossing_1 = {
 	trait = brave
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8246.1.1 = {
@@ -2835,6 +2927,7 @@ Frey_91 = {
 
 	trait = education_learning_2
 
+	trait = average_height
 	8250.1.1 = {
 		birth = yes
 		make_trait_inactive = surname_rivers
@@ -2866,6 +2959,7 @@ Frey_92 = {
 
 	trait = bastard
 
+	trait = average_height
 	8265.1.1 = {
 		birth = yes
 		make_trait_inactive = surname_rivers
@@ -2888,6 +2982,7 @@ Frey_93 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8271.1.1 = {
 		birth = yes
 		make_trait_inactive = surname_rivers
@@ -2919,6 +3014,7 @@ Frey_94 = {
 	trait = compassionate
 	trait = just
 
+	trait = average_height
 	8272.1.1 = {
 		birth = yes
 		make_trait_inactive = surname_rivers
@@ -2941,6 +3037,7 @@ Frey_95 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8273.1.1 = {
 		birth = yes
 		make_trait_inactive = surname_rivers
@@ -2976,6 +3073,7 @@ Frey_96 = {
 
 	trait = bastard
 
+	trait = average_height
 	8274.1.1 = {
 		birth = yes
 		make_trait_inactive = surname_rivers
@@ -2997,6 +3095,7 @@ Crossing_2 = {
 	father = Crossing_1
 	mother = Charlton_2
 
+	trait = average_height
 	8270.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -3016,6 +3115,7 @@ Crossing_3 = {
 
 	trait = arrogant
 
+	trait = average_height
 	8272.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3039,6 +3139,7 @@ Crossing_4 = {
 	father = Crossing_3
 	mother = Common_110
 
+	trait = average_height
 	8295.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3185,6 +3286,7 @@ Frey_99 = {
 	father = Frey_98
 	mother = Cox_63
 
+	trait = average_height
 	8248.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -3225,6 +3327,7 @@ Frey_100 = {
 
 	trait = education_martial_1
 
+	trait = average_height
 	8257.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -3422,6 +3525,7 @@ Frey_101 = {
 	father = Frey_100
 	mother = Weller_38
 
+	trait = average_height
 	8279.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -3601,6 +3705,7 @@ Frey_hh_2 = {
 	trait = content
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8262.1.1 = {
