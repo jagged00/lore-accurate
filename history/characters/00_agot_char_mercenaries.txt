@@ -21,6 +21,7 @@ Maar_1 = {
 	trait = calm
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8274.1.1 = {
@@ -46,6 +47,7 @@ Edoryen_1 = {
 	trait = honest
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8251.1.1 = {
@@ -66,6 +68,7 @@ Pease_1 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8269.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -83,6 +86,7 @@ Golden_Company_1 = {
 	trait = education_martial_2
 	trait = greedy
 
+	trait = average_height
 	8260.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -124,6 +128,7 @@ Golden_Company_3 = {
 	trait = rude
 	trait = rowdy
 
+	trait = tall_5
 	disallow_random_traits = yes
 
 	8265.1.1 = {
@@ -143,6 +148,7 @@ Golden_Company_4 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8249.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -163,6 +169,7 @@ Golden_Company_5 = {
 	trait = trusting
 	trait = charming
 
+	trait = short_2
 	disallow_random_traits = yes
 
 	8275.1.1 = {
@@ -219,6 +226,7 @@ Golden_Company_6 = {
 	trait = ambitious
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8252.1.1 = {
@@ -239,6 +247,7 @@ Golden_Company_7 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8265.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -257,6 +266,7 @@ Golden_Company_8 = {
 	trait = education_martial_prowess_3
 	trait = lustful
 
+	trait = average_height
 	8270.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -274,6 +284,7 @@ Golden_Company_9 = {
 
 	trait = education_stewardship_1
 
+	trait = average_height
 	8286.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -302,6 +313,7 @@ D_han_1 = {
 	trait = education_martial_2
 	trait = education_martial_prowess_2
 
+	trait = average_height
 	8239.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -330,6 +342,7 @@ Windblown_1 = {
 	trait = sadistic
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8268.1.1 = {
@@ -360,6 +373,7 @@ Windblown_2 = {
 	trait = vengeful
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8262.1.1 = {
@@ -385,6 +399,7 @@ Windblown_3 = {
 	trait = education_martial_1
 	trait = lustful
 
+	trait = average_height
 	8269.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -403,6 +418,7 @@ Windblown_4 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8267.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -422,6 +438,7 @@ Windblown_5 = {
 
 	trait = education_martial_1
 
+	trait = average_height
 	8251.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -445,6 +462,7 @@ Windblown_6 = {
 	trait = patient
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8260.1.1 = {
@@ -466,6 +484,7 @@ Windblown_7 = {
 
 	trait = education_martial_1
 
+	trait = average_height
 	8270.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -485,6 +504,7 @@ Windblown_8 = {
 
 	trait = education_martial_1
 
+	trait = average_height
 	8268.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -507,6 +527,7 @@ Windblown_9 = {
 
 	trait = education_martial_1
 
+	trait = average_height
 	8271.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -527,6 +548,7 @@ Windblown_10 = {
 	trait = education_martial_1
 	trait = lustful
 
+	trait = average_height
 	8265.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -560,6 +582,7 @@ Company_of_the_Cat_1 = {
 	trait = ambitious
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8259.1.1 = {
@@ -684,6 +707,7 @@ Second_Sons_1 = {
 	trait = lustful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8268.1.1 = {
@@ -717,6 +741,7 @@ Second_Sons_2 = {
 	trait = ambitious
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8270.1.1 = {
@@ -739,6 +764,7 @@ Second_Sons_3 = {
 	trait = physique_good_1
 	trait = gluttonous
 
+	trait = average_height
 	8259.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -760,6 +786,7 @@ Second_Sons_4 = {
 	trait = physique_good_1
 	trait = gluttonous
 
+	trait = average_height
 	8280.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -784,6 +811,7 @@ Second_Sons_5 = {
 	trait = cynical
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8268.1.1 = {
@@ -804,6 +832,7 @@ Second_Sons_6 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8265.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -826,6 +855,7 @@ Second_Sons_7 = {
 	trait = physique_good_1
 	trait = lustful
 
+	trait = average_height
 	8271.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -845,6 +875,7 @@ Second_Sons_8 = {
 
 	trait = education_martial_1
 
+	trait = average_height
 	8269.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -874,6 +905,7 @@ Second_Sons_10 = {
 
 	father = Second_Sons_9
 
+	trait = average_height
 	8277.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -892,6 +924,7 @@ Second_Sons_11 = {
 
 	father = Second_Sons_9
 
+	trait = average_height
 	8283.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1108,6 +1141,7 @@ Stormcrows_1 = {
 	trait = lustful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8271.1.1 = {
@@ -1131,6 +1165,7 @@ Stormcrows_2 = {
 
 	trait = education_stewardship_1
 
+	trait = average_height
 	8265.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1161,6 +1196,7 @@ Stormcrows_3 = {
 	trait = calm
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8258.1.1 = {
@@ -1188,6 +1224,7 @@ Stormcrows_4 = {
 	trait = education_martial_2
 	trait = education_martial_prowess_2
 
+	trait = average_height
 	8264.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1211,6 +1248,7 @@ Stormcrows_5 = {
 	trait = patient
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8260.1.1 = {
@@ -1265,6 +1303,7 @@ Hoat_1 = {
 	trait = lisping
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8250.1.1 = {
@@ -1313,6 +1352,7 @@ Brave_Companions_1 = {
 	trait = diligent
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8248.1.1 = {
@@ -1361,6 +1401,7 @@ Brave_Companions_2 = {
 	trait = arbitrary
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8251.1.1 = {
@@ -1398,6 +1439,7 @@ Brave_Companions_3 = {
 	trait = wrathful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8258.1.1 = {
@@ -1433,6 +1475,7 @@ Brave_Companions_4 = {
 	trait = wrathful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8263.1.1 = {
@@ -1458,6 +1501,7 @@ Brave_Companions_5 = {
 	trait = wrathful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8269.1.1 = {
@@ -1486,6 +1530,7 @@ Brave_Companions_6 = {
 	trait = education_martial_prowess_1
 	trait = callous
 
+	trait = average_height
 	8271.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1511,6 +1556,7 @@ Brave_Companions_7 = {
 	trait = education_martial_1
 	trait = callous
 
+	trait = average_height
 	8263.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1531,6 +1577,7 @@ Brave_Companions_8 = {
 	religion = ib_ven_sound
 	culture = ibbenese
 
+	trait = average_height
 	8259.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1549,6 +1596,7 @@ Brave_Companions_9 = {
 
 	trait = brave
 
+	trait = average_height
 	8255.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1579,6 +1627,7 @@ Brave_Companions_10 = {
 	trait = rude
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8269.1.1 = {
@@ -1624,6 +1673,7 @@ Brave_Companions_11 = {
 	trait = gluttonous
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8271.1.1 = {
@@ -1683,6 +1733,7 @@ Butcher_1 = {
 	trait = deceitful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8227.1.1 = {
@@ -1794,6 +1845,7 @@ Nine_Eyes_1 = {
 	trait = gregarious # A jolly fellow
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8224.1.1 = {
@@ -1911,6 +1963,7 @@ Lashare_1 = {
 	trait = sadistic
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8226.1.1 = {
@@ -2055,6 +2108,7 @@ Qhoqua_1 = {
 	trait = callous
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8220.1.1 = {

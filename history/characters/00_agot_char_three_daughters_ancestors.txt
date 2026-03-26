@@ -2212,6 +2212,7 @@ Camardoon_7_A = {
 	father = Camardoon_8
 	mother = Moratyr_65
 
+	trait = average_height
 	8187.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -3238,6 +3239,7 @@ Adarys_1 = {
 	trait = diligent
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8230.1.1 = {
@@ -4458,6 +4460,7 @@ Atuhoris_26 = {
 
 	trait = fecund
 
+	trait = average_height
 	8170.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -10174,6 +10177,7 @@ Ryndoon_8_B = {
 	trait = rude
 	trait = curious
 
+	trait = tall_5
 	disallow_random_traits = yes
 
 	8084.1.1 = {
@@ -22715,6 +22719,7 @@ Bazanne_25 = {
 
 	trait = greedy
 
+	trait = average_height
 	8108.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -24567,6 +24572,7 @@ Rogare_2 = {
 	trait = bossy
 	trait = fecund
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8080.1.1 = {
@@ -24600,6 +24606,7 @@ Rogare_3 = {
 	trait = patient
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8089.1.1 = {
@@ -24631,6 +24638,7 @@ Rogare_4 = {
 	trait = impatient
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8100.1.1 = {
@@ -24670,6 +24678,7 @@ Rogare_5 = {
 	trait = arbitrary
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8101.1.1 = {
@@ -24695,6 +24704,7 @@ Rogare_6 = {
 	trait = craven
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8103.1.1 = {
@@ -24720,6 +24730,7 @@ Rogare_7 = {
 	trait = greedy
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8105.1.1 = {
@@ -24747,6 +24758,7 @@ Rogare_8 = {
 	trait = education_learning_3
 	trait = curious
 
+	trait = average_height
 	8107.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -24772,6 +24784,7 @@ Rogare_9 = {
 	trait = authoritative
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8110.1.1 = {
@@ -24810,6 +24823,7 @@ Rogare_10 = {
 	trait = generous
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8111.1.1 = {
@@ -24852,6 +24866,7 @@ Rogare_11 = {
 	trait = compassionate
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8113.1.1 = {
@@ -24894,6 +24909,7 @@ Rogare_12 = {
 	trait = generous
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8115.1.1 = {
@@ -26582,6 +26598,7 @@ Haen_7 = {
 	trait = impatient
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8093.1.1 = {
@@ -26657,6 +26674,7 @@ Haen_7_B = {
 	trait = brave
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8119.1.1 = {
@@ -28888,6 +28906,7 @@ Sellos_56 = {
 	trait = beauty_good_3
 	trait = arrogant
 
+	trait = average_height
 	8162.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -30693,6 +30712,7 @@ Dagareon_9 = {
 	father = Rogare_122
 	mother = Dagareon_56
 
+	trait = average_height
 	8078.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -33246,6 +33266,7 @@ Orthys_7 = {
 
 	trait = education_stewardship_3
 
+	trait = average_height
 	8080.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -33962,6 +33983,7 @@ Lohar_8 = {
 	trait = education_martial_3
 	trait = greedy
 
+	trait = average_height
 	8083.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -35116,6 +35138,7 @@ Pendaerys_8 = {
 	father = Pendaerys_30
 	mother = Pendaerys_rs_30
 
+	trait = average_height
 	8084.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -35134,6 +35157,7 @@ Pendaerys_7 = {
 	father = Pendaerys_30
 	mother = Pendaerys_rs_30
 
+	trait = average_height
 	8086.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -35914,6 +35938,7 @@ Moraqos_8 = {
 	trait = vengeful
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8080.1.1 = {
@@ -46726,6 +46751,7 @@ Drahar_8 = {
 	trait = patient
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8067.4.2 = {

@@ -55,6 +55,7 @@ Grey_King_2 = {
 	trait = authoritative
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	976.1.1 = {
@@ -140,6 +141,7 @@ Greyiron_1 = {
 	trait = ambitious
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	3894.1.1 = {
@@ -176,6 +178,7 @@ Greyiron_2 = {
 	trait = cynical
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	3913.1.1 = {
@@ -220,6 +223,7 @@ Greyiron_4 = {
 	trait = ambitious
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	3958.1.1 = {
@@ -454,6 +458,7 @@ Greyiron_34 = {
 	trait = callous
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6205.1.1 = {
@@ -579,6 +584,7 @@ Greyiron_19 = {
 
 	father = Greyiron_31
 
+	trait = average_height
 	6433.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -609,6 +615,7 @@ Greyiron_20 = {
 	trait = diligent
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6470.1.1 = {
@@ -697,6 +704,7 @@ Greyiron_24 = {
 
 	father = Greyiron_20
 
+	trait = average_height
 	6504.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -752,6 +760,7 @@ Greyiron_27 = {
 	trait = wrathful
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6549.1.1 = {
@@ -813,6 +822,7 @@ Greyiron_32 = {
 	trait = cynical
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6956.1.1 = {
@@ -846,6 +856,7 @@ Grey_King_5 = {
 	trait = arrogant
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	1956.1.1 = {
@@ -899,6 +910,7 @@ Hoare_1 = {
 	trait = zealous
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6150.1.1 = {
@@ -980,6 +992,7 @@ Hoare_4 = {
 	trait = diligent
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6228.1.1 = {
@@ -1012,6 +1025,7 @@ Hoare_5 = {
 	trait = ambitious
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6252.1.1 = {
@@ -1042,6 +1056,7 @@ Hoare_6 = {
 
 	father = Hoare_5
 
+	trait = average_height
 	6271.1.1 = {
 		birth = yes
 		make_trait_inactive = black_eyes
@@ -1098,6 +1113,7 @@ Hoare_3 = {
 	trait = brave
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	father = Hoare_2
@@ -1124,6 +1140,7 @@ Hoare_21 = {
 
 	father = Hoare_3
 
+		trait = average_height
 	7004.1.1 = {
 		birth = yes
 		make_trait_inactive = black_eyes
@@ -1179,6 +1196,7 @@ Hoare_7 = {
 	trait = callous
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7029.1.1 = {
@@ -1238,6 +1256,7 @@ Hoare_9 = {
 	trait = sadistic
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7090.1.1 = {
@@ -1266,6 +1285,7 @@ Hoare_12 = {
 	trait = callous
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7119.1.1 = {
@@ -1293,6 +1313,7 @@ Hoare_13 = {
 	trait = lazy
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7145.1.1 = {
@@ -1319,6 +1340,7 @@ Hoare_14 = {
 	trait = diligent
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7166.1.1 = {
@@ -1346,6 +1368,7 @@ Hoare_15 = {
 	trait = wrathful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7188.1.1 = {
@@ -1372,6 +1395,7 @@ Hoare_16 = {
 	trait = trusting
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7215.1.1 = {
@@ -1398,6 +1422,7 @@ Hoare_17 = {
 	trait = diligent
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7240.1.1 = {
@@ -1431,6 +1456,7 @@ Hoare_18 = {
 	trait = diligent
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7268.1.1 = {
@@ -1474,6 +1500,7 @@ Hoare_19 = {
 	trait = arrogant
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7270.1.1 = {
@@ -1552,6 +1579,7 @@ Hoare_25 = { # Doom of Valyria
 	trait = authoritative
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7836.1.1 = {
@@ -1619,6 +1647,7 @@ Hoare_27 = {
 	father = Hoare_25
 	mother = Wynch_9 # Wylla Wynch
 
+	trait = average_height
 	7873.1.1 = {
 		birth = yes
 		make_trait_inactive = black_eyes
@@ -1657,6 +1686,7 @@ Hoare_28 = {
 	trait = ambitious
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7879.1.1 = {
@@ -1743,6 +1773,7 @@ Hoare_30 = {
 	trait = zealous
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7912.1.1 = {
@@ -1784,6 +1815,7 @@ Hoare_31 = {
 	trait = ambitious
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7940.1.1 = {
@@ -2006,6 +2038,7 @@ Grey_King_7 = {
 	trait = reaver
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	1957.1.1 = {
@@ -2159,6 +2192,7 @@ Greyjoy_25 = {
 	trait = wrathful
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6256.1.1 = {
@@ -2191,6 +2225,7 @@ Greyjoy_28 = {
 	trait = diligent
 	trait = authoritative
 
+	trait = average_height
 	6278.1.1 = {
 		birth = yes
 		make_trait_inactive = black_hair
@@ -2237,6 +2272,7 @@ Greyjoy_21 = {
 	trait = education_martial_4
 	trait = ambitious
 
+	trait = average_height
 	6343.1.1 = {
 		birth = yes
 		make_trait_inactive = black_hair
@@ -2497,6 +2533,7 @@ Greyjoy_40 = { # Aegon's Conquest
 	trait = patient
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7967.1.1 = {
@@ -2642,6 +2679,7 @@ Greyjoy_41 = {
 	trait = patient
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7995.1.1 = {
@@ -3403,6 +3441,7 @@ Greyjoy_59 = { # Dance of the Dragons
 	trait = intellect_good_2
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8113.1.1 = {
@@ -3630,6 +3669,7 @@ Greyjoy_60 = {
 	trait = wrathful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8114.1.1 = {
@@ -3699,6 +3739,7 @@ Greyjoy_63 = {
 
 	trait = child_of_concubine_male
 
+	trait = average_height
 	8128.1.1 = {
 		birth = yes
 		make_trait_inactive = black_hair
@@ -3734,6 +3775,7 @@ Greyjoy_64 = {
 
 	trait = child_of_concubine_male
 
+	trait = average_height
 	8129.1.1 = {
 		birth = yes
 		make_trait_inactive = black_hair
@@ -3796,6 +3838,7 @@ Greyjoy_65 = {
 	trait = zealous
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8151.1.1 = {
@@ -3844,6 +3887,7 @@ Greyjoy_66 = {
 	trait = arrogant
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8178.1.1 = {
@@ -3936,6 +3980,7 @@ Greyjoy_69 = {
 	trait = arbitrary
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8196.1.1 = {
@@ -4002,6 +4047,7 @@ Greyjoy_71 = {
 	trait = patient
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8198.1.1 = {
@@ -4130,6 +4176,7 @@ Greyjoy_hh_21 = {
 	trait = education_learning_2
 	trait = bastard
 
+	trait = average_height
 	8159.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -4871,6 +4918,7 @@ Goodbrother_37 = {
 	trait = cynical
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6458.1.1 = {
@@ -5673,6 +5721,7 @@ Goodbrother_51 = {
 	trait = vengeful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8100.1.1 = {
@@ -5707,6 +5756,7 @@ Goodbrother_52 = {
 	trait = wrathful
 	trait = brave
 
+	trait = average_height
 	8106.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -5808,6 +5858,7 @@ Goodbrother_hh_2 = {
 
 	trait = education_learning_2
 
+	trait = average_height
 	8205.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -13982,6 +14033,7 @@ Harlaw_30 = {
 	trait = ambitious
 	trait = authoritative
 
+	trait = average_height
 	6333.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -14003,6 +14055,7 @@ Harlaw_31 = {
 	trait = strong
 	trait = brave
 
+	trait = average_height
 	6357.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -14823,6 +14876,7 @@ Harlaw_44 = {
 	trait = ambitious
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8132.1.1 = {
@@ -14957,6 +15011,7 @@ Grey_King_13 = {
 	trait = reaver
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	1960.1.1 = {
@@ -15148,6 +15203,7 @@ Volmark_11 = {
 	trait = impatient
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7960.1.1 = {
@@ -16262,6 +16318,7 @@ Wynch_19 = {
 	trait = stubborn
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8086.1.1 = {
@@ -27213,6 +27270,7 @@ Grey_King_27 = {
 	trait = reaver
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	1959.1.1 = {
@@ -27342,6 +27400,7 @@ Blacktyde_8 = {
 	trait = authoritative
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6431.1.1 = {
@@ -28573,6 +28632,7 @@ Drumm_4 = {
 	trait = physique_good_3
 	trait = brave
 
+	trait = average_height
 	1958.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -28625,6 +28685,7 @@ Drumm_6 = {
 	trait = diligent
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	3912.1.1 = {
@@ -28665,6 +28726,7 @@ Drumm_14 = {
 	trait = fecund
 	trait = rowdy
 
+	trait = average_height
 	7701.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -28694,6 +28756,7 @@ Drumm_8 = {
 	trait = brave
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7749.1.1 = {
@@ -28751,6 +28814,7 @@ Drumm_11 = {
 	trait = brave
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7824.1.1 = {
@@ -29101,6 +29165,7 @@ Drumm_17 = {
 	trait = greedy
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7964.1.1 = {
@@ -29572,6 +29637,7 @@ Grey_King_29 = {
 	trait = reaver
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	1961.1.1 = {
@@ -45188,6 +45254,7 @@ Salt_1 = {
 	trait = deceitful
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8101.1.1 = {
@@ -50301,6 +50368,7 @@ Drowned_Men_2 = {
 	trait = authoritative
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7250.1.1 = {
@@ -50330,6 +50398,7 @@ Drowned_Men_3 = {
 	trait = authoritative
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7971.1.1 = {
@@ -50357,6 +50426,7 @@ Drowned_Men_4 = {
 	trait = education_diplomacy_4
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7971.1.1 = {

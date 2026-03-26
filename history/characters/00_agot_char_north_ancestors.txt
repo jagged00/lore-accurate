@@ -26,6 +26,7 @@ Stark_12 = {
 
 	give_nickname = nick_agot_historical_the_builder_Stark_12
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	2020.1.1 = {
@@ -51,6 +52,7 @@ Stark_14 = {
 
 	father = Stark_12
 
+	trait = average_height
 	2050.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -80,6 +82,7 @@ Stark_15 = {
 
 	give_nickname = nick_agot_historical_the_breaker_stark
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	2080.1.1 = {
@@ -114,6 +117,7 @@ Stark_13 = {
 	trait = callous
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	2092.1.1 = {
@@ -296,6 +300,7 @@ Stark_18 = {
 
 	father = Stark_22
 
+	trait = average_height
 	5643.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -325,6 +330,7 @@ Stark_19 = {
 	trait = gregarious
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	5678.1.1 = {
@@ -376,6 +382,7 @@ Stark_21 = {
 	trait = diligent
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6249.1.1 = {
@@ -418,6 +425,7 @@ Stark_31 = {
 
 	father = Stark_21
 
+	trait = average_height
 	6288.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -449,6 +457,7 @@ Stark_23 = {
 	trait = chaste
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6310.1.1 = {
@@ -559,6 +568,7 @@ Stark_26 = {
 
 	trait = education_martial_3
 
+	trait = average_height
 	6371.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -588,6 +598,7 @@ Stark_35 = {
 	trait = diligent
 	trait = gregarious
 
+	trait = average_height
 	6389.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -629,6 +640,7 @@ Stark_37 = {
 	trait = wrathful
 	trait = diligent
 
+	trait = average_height
 	6439.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -697,6 +709,7 @@ Stark_40 = {
 	trait = callous
 	trait = just
 
+	trait = average_height
 	6514.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -717,6 +730,7 @@ Stark_32 = {
 
 	father = Stark_40
 
+	trait = average_height
 	6534.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -756,6 +770,7 @@ Stark_28 = {
 
 	trait = ambitious
 
+	trait = average_height
 	7221.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -799,6 +814,7 @@ Stark_30 = {
 
 	trait = wrathful
 
+	trait = average_height
 	7245.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -879,6 +895,7 @@ Stark_129 = {
 	father = Stark_33
 	mother = Stark_rs_2
 
+	trait = average_height
 	7292.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -960,6 +977,7 @@ Stark_36 = {
 	trait = intellect_good_2
 	trait = authoritative
 
+	trait = average_height
 	7590.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -1011,6 +1029,7 @@ Stark_41 = {
 
 	trait = depressed_1
 
+	trait = average_height
 	7710.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -1031,6 +1050,7 @@ Stark_42 = {
 
 	trait = compassionate
 
+	trait = average_height
 	7737.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -1049,6 +1069,7 @@ Stark_43 = {
 
 	father = Stark_42
 
+	trait = average_height
 	7755.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -1066,6 +1087,7 @@ Stark_44 = {
 
 	father = Stark_43
 
+	trait = average_height
 	7777.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -1220,6 +1242,7 @@ Stark_45 = {
 
 	trait = physique_bad_1
 
+	trait = average_height
 	7820.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -1251,6 +1274,7 @@ Stark_46 = {
 	trait = deceitful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7838.1.1 = {
@@ -1359,6 +1383,7 @@ Stark_51 = {
 	father = Stark_46
 	mother = Mormont_13
 
+	trait = average_height
 	7877.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -1534,6 +1559,7 @@ Stark_60 = {
 	father = Stark_51
 	mother = Hornwood_9
 
+	trait = average_height
 	7910.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -1612,6 +1638,7 @@ Stark_64 = {
 	father = Stark_60
 	mother = Cerwyn_14
 
+	trait = average_height
 	7938.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -1665,6 +1692,7 @@ Stark_66 = {
 	trait = temperate
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7958.1.1 = {
@@ -1703,6 +1731,7 @@ Stark_67 = {
 	trait = temperate
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7976.1.1 = { # described as a 'youth' in Bran's vision
@@ -1738,6 +1767,7 @@ Stark_68 = {
 	trait = arrogant
 	trait = ambitious
 
+	trait = average_height
 	7975.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -1887,6 +1917,7 @@ Stark_69 = {
 	trait = education_martial_2
 	trait = ambitious
 
+	trait = average_height
 	7996.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -1918,6 +1949,7 @@ Stark_70 = {
 	trait = honest
 	trait = just
 
+	trait = average_height
 	7997.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -1967,6 +1999,7 @@ Stark_75 = {
 	trait = authoritative
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8014.1.1 = {
@@ -1998,6 +2031,7 @@ Stark_76 = {
 	trait = cynical
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8015.1.1 = {
@@ -2090,6 +2124,7 @@ Stark_79 = {
 	trait = compassionate
 	trait = shy
 
+	trait = average_height
 	8043.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2111,6 +2146,7 @@ Stark_80 = {
 	father = Stark_77
 	mother = Blackwood_52
 
+	trait = average_height
 	8062.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2139,6 +2175,7 @@ Stark_81 = {
 	trait = arrogant
 	trait = wrathful
 
+	trait = average_height
 	8064.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2171,6 +2208,7 @@ Stark_82 = {
 	trait = gregarious
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8066.1.1 = {
@@ -2223,6 +2261,7 @@ Stark_84 = {
 	trait = education_martial_2
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8088.1.1 = {
@@ -2259,6 +2298,7 @@ Stark_85 = {
 	trait = education_martial_2
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8090.1.1 = {
@@ -2367,6 +2407,7 @@ Stark_86 = { # Dance of the Dragons
 	trait = fecund
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8108.1.1 = {
@@ -2452,6 +2493,7 @@ Stark_88 = {
 
 	trait = beauty_good_2
 
+	trait = average_height
 	8113.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2509,6 +2551,7 @@ Stark_89 = {
 	father = Stark_85
 	mother = Karstark_43
 
+	trait = average_height
 	8111.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2539,6 +2582,7 @@ Stark_90 = {
 	father = Stark_85
 	mother = Karstark_43
 
+	trait = average_height
 	8113.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2570,6 +2614,7 @@ Stark_91 = {
 	father = Stark_85
 	mother = Karstark_43
 
+	trait = average_height
 	8117.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2661,6 +2706,7 @@ Stark_93 = {
 	father = Stark_92
 	mother = Bolton_75
 
+	trait = average_height
 	8131.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2693,6 +2739,7 @@ Stark_94 = {
 	trait = just
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8128.1.1 = {
@@ -2722,6 +2769,7 @@ Stark_95 = {
 	father = Stark_86
 	mother = Blackwood_63 # Alysanne Blackwood
 
+	trait = average_height
 	8135.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2743,6 +2791,7 @@ Stark_96 = {
 	father = Stark_86
 	mother = Blackwood_63 # Alysanne Blackwood
 
+	trait = average_height
 	8140.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2764,6 +2813,7 @@ Stark_97 = {
 	father = Stark_86
 	mother = Blackwood_63 # Alysanne Blackwood
 
+	trait = average_height
 	8142.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2785,6 +2835,7 @@ Stark_98 = {
 	father = Stark_86
 	mother = Blackwood_63 # Alysanne Blackwood
 
+	trait = average_height
 	8145.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2807,6 +2858,7 @@ Stark_99 = {
 
 	trait = infertile
 
+	trait = average_height
 	8150.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2840,6 +2892,7 @@ Stark_100 = {
 	father = Stark_86
 	mother = Stark_93 # Lynara Stark
 
+	trait = average_height
 	8151.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2864,6 +2917,7 @@ Stark_101 = {
 	father = Stark_86
 	mother = Stark_93 # Lynara Stark
 
+	trait = average_height
 	8153.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2897,6 +2951,7 @@ Stark_102 = {
 	trait = brave
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8158.1.1 = {
@@ -2922,6 +2977,7 @@ Stark_103 = {
 	father = Stark_86
 	mother = Stark_93 # Lynara Stark
 
+	trait = average_height
 	8160.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2945,6 +3001,7 @@ Stark_105 = {
 	father = Stark_94
 	mother = Manderly_58
 
+		trait = average_height
 	8150.1.1 = { #Twoiaf lists her as younger daughter but Elio Garcia confirmed this to be an error
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -2976,6 +3033,7 @@ Stark_104 = {
 	trait = deceitful
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8152.1.1 = {
@@ -3013,6 +3071,7 @@ Stark_106 = {
 	trait = twin
 	trait = strong
 
+	trait = average_height
 	8171.8.15 = { # According to Elio, in GRRM's notes, Torrhen is the elder twin
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3054,6 +3113,7 @@ Stark_107 = {
 	trait = twin
 	trait = strong
 
+	trait = average_height
 	8171.8.15 = { # According to Elio, in GRRM's notes, Cregard is the younger twin
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3091,6 +3151,7 @@ Stark_108 = {
 	father = Stark_100
 	mother = Stark_104
 
+	trait = average_height
 	8173.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3112,6 +3173,7 @@ Stark_109 = {
 	father = Stark_100
 	mother = Stark_104
 
+	trait = average_height
 	8176.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3142,6 +3204,7 @@ Stark_110 = {
 	# canon_children_bastard_parent_status unmarried_father_unmarried_mother
 	# canon_children_bastard_reveal canon_bastard_known_father_public
 
+	trait = average_height
 	8178.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3165,6 +3228,7 @@ Stark_111 = {
 	father = Stark_103
 	mother = Karstark_50
 
+	trait = average_height
 	8179.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3195,6 +3259,7 @@ Stark_112 = {
 	trait = education_martial_1
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8180.1.1 = {
@@ -3227,6 +3292,7 @@ Stark_113 = {
 	father = Stark_103
 	mother = Karstark_50
 
+	trait = average_height
 	8187.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3248,6 +3314,7 @@ Stark_114 = {
 	father = Stark_112
 	mother = Royce_76
 
+	trait = average_height
 	8202.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3282,6 +3349,7 @@ Stark_115 = {
 	trait = just
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8203.1.1 = {
@@ -3320,6 +3388,7 @@ Stark_116 = {
 	trait = education_martial_3
 	trait = pensive
 
+	trait = short_5
 	disallow_random_traits = yes
 
 	8206.1.1 = {
@@ -3353,6 +3422,7 @@ Stark_117 = {
 	father = Stark_112
 	mother = Royce_76
 
+	trait = average_height
 	8207.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3374,6 +3444,7 @@ Stark_118 = {
 	father = Stark_112
 	mother = Royce_76
 
+	trait = average_height
 	8209.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3394,6 +3465,7 @@ Stark_119 = {
 	father = Stark_112
 	mother = Royce_76
 
+	trait = average_height
 	8211.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3420,6 +3492,7 @@ Stark_120 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8212.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3462,6 +3535,7 @@ Stark_121 = {
 	father = Stark_115
 	mother = Glover_28 # Lyanne Glover
 
+		trait = average_height
 	8219.1.12 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3493,6 +3567,7 @@ Stark_122 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8220.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3519,6 +3594,7 @@ Stark_123 = {
 	father = Stark_115
 	mother = Blackwood_88 # Melantha Blackwood
 
+	trait = average_height
 	8221.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3542,6 +3618,7 @@ Stark_124 = {
 	father = Stark_116
 	mother = Karstark_53
 
+	trait = average_height
 	8226.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3567,6 +3644,7 @@ Stark_125 = {
 
 	trait = twin
 
+	trait = average_height
 	8226.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3590,6 +3668,7 @@ Stark_126 = {
 	religion = old_gods_wnw
 	culture = northman
 
+	trait = average_height
 	8237.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3612,6 +3691,7 @@ Stark_127 = {
 	religion = old_gods_wnw
 	culture = northman
 
+	trait = average_height
 	8239.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -3673,6 +3753,7 @@ Stark_hh_32 = {
 
 	trait = education_learning_2
 
+	trait = average_height
 	8045.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3699,6 +3780,7 @@ Stark_hh_29 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	8090.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3727,6 +3809,7 @@ Stark_hh_30 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	8155.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3755,6 +3838,7 @@ Stark_hh_31 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	8170.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -4573,6 +4657,7 @@ Manderly_30 = {
 	father = Manderly_28
 	mother = Karstark_64
 
+	trait = average_height
 	7981.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -4619,6 +4704,7 @@ Manderly_33 = {
 	trait = brave
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8018.1.1 = {
@@ -4826,6 +4912,7 @@ Manderly_43 = {
 	father = Manderly_33
 	mother = Cerwyn_56
 
+	trait = average_height
 	8043.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -4845,6 +4932,7 @@ Manderly_44 = {
 	father = Manderly_33
 	mother = Cerwyn_56
 
+	trait = average_height
 	8048.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -4951,6 +5039,7 @@ Manderly_48 = { # Dance of the Dragons
 	trait = gregarious
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8066.1.1 = {
@@ -5068,6 +5157,7 @@ Manderly_53 = {
 	trait = strong
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8096.1.1 = {
@@ -5132,6 +5222,7 @@ Manderly_55 = {
 	trait = just
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8100.1.1 = {
@@ -5223,6 +5314,7 @@ Manderly_58 = {
 	father = Manderly_55
 	mother = Burley_17 # Cyrelle Burley
 
+	trait = average_height
 	8130.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -5443,6 +5535,7 @@ Manderly_67 = {
 	father = Manderly_62
 	mother = Royce_72
 
+	trait = average_height
 	8180.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -5462,6 +5555,7 @@ Manderly_hh_2 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	8036.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -5488,6 +5582,7 @@ Manderly_hh_3 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	8100.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -9606,6 +9701,7 @@ Umber_110 = {
 	trait = education_martial_1
 	trait = physique_good_3
 	trait = giant
+	trait = tall_5
 	trait = wrathful
 	trait = callous
 	trait = brave
@@ -11024,6 +11120,7 @@ Umber_46 = {
 	trait = physique_good_3
 	trait = ambitious
 
+	trait = average_height
 	8147.1.1 = {
 		birth = yes
 		make_trait_inactive = tol
@@ -11131,6 +11228,7 @@ Umber_51 = {
 	trait = education_martial_2
 	trait = physique_good_3
 
+	trait = average_height
 	8170.1.1 = {
 		birth = yes
 		make_trait_inactive = tol
@@ -11182,6 +11280,7 @@ Umber_53 = {
 	trait = education_martial_prowess_2
 	trait = physique_good_3
 	trait = giant
+	trait = tall_5
 	trait = brave
 	trait = gluttonous
 	trait = impatient
@@ -12840,6 +12939,7 @@ Karstark_43 = {
 	father = Karstark_41
 	mother = Leadranack_41
 
+	trait = average_height
 	8091.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -13008,6 +13108,7 @@ Karstark_50 = {
 	father = Karstark_47
 	mother = Goodman_92
 
+	trait = average_height
 	8158.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -13089,6 +13190,7 @@ Karstark_53 = {
 	father = Karstark_51 # Beric Karstark
 	mother = Lake_49
 
+	trait = average_height
 	8203.1.1 = {
 		birth = yes
 		make_trait_inactive = grey_eyes
@@ -13366,6 +13468,7 @@ Bolton_7 = {
 	trait = callous
 	trait = wrathful
 
+	trait = average_height
 	5379.1.1 = {
 		birth = yes
 		make_trait_inactive = black_hair
@@ -13426,6 +13529,7 @@ Bolton_10 = {
 	trait = sadistic
 	trait = wrathful
 
+	trait = average_height
 	5706.1.1 = {
 		birth = yes
 		make_trait_inactive = black_hair
@@ -13469,6 +13573,7 @@ Bolton_12 = {
 	trait = patient
 	trait = deceitful
 
+	trait = average_height
 	6240.1.1 = {
 		birth = yes
 		make_trait_inactive = black_hair
@@ -13506,6 +13611,7 @@ Bolton_14 = {
 	trait = diligent
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6267.1.1 = {
@@ -14756,6 +14862,7 @@ Bolton_37 = {
 	trait = ambitious
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8119.1.1 = {
@@ -21304,6 +21411,7 @@ Cerwyn_31 = {
 	trait = education_martial_2
 	trait = vengeful
 
+	trait = average_height
 	8173.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -23389,6 +23497,7 @@ Hornwood_22 = {
 
 	trait = lunatic_genetic
 
+	trait = average_height
 	8111.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -24958,6 +25067,7 @@ Flint_20 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	6236.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -25891,6 +26001,7 @@ Flint_37 = {
 
 	trait = bastard
 
+	trait = average_height
 	8100.1.1 = {
 		birth = yes
 		make_trait_inactive = surname_snow
@@ -28067,6 +28178,7 @@ Flint_74 = {
 	trait = trusting
 	trait = brave
 
+	trait = average_height
 	7892.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -28911,6 +29023,7 @@ Flint_90 = {
 	father = Flint_198
 	mother = Harclay_114
 
+	trait = average_height
 	8209.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -30268,6 +30381,7 @@ Locke_21 = {
 	father = Locke_19
 	mother = Manderly_38
 
+	trait = average_height
 	8065.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -34231,6 +34345,7 @@ Long_20 = {
 	trait = education_martial_2
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8090.1.1 = {
@@ -48396,6 +48511,7 @@ Dustin_12 = {
 	trait = diligent
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	2.1.1 = {
@@ -48894,6 +49010,7 @@ Dustin_25 = {
 	trait = education_martial_2
 	trait = brave
 
+	trait = average_height
 	8020.1.1 = {
 		birth = yes
 		make_trait_inactive = surname_snow
@@ -49124,6 +49241,7 @@ Dustin_28 = { # Dance of the Dragons
 	trait = strong
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8078.1.1 = {
@@ -50857,6 +50975,7 @@ Ryswell_35 = {
 	father = Ryswell_30
 	mother = Ryger_30 # Tilly Ryger
 
+	trait = average_height
 	8153.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -62658,6 +62777,7 @@ Glover_18 = {
 	trait = brave
 	trait = just
 
+	trait = average_height
 	8032.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -62845,6 +62965,7 @@ Glover_21 = {
 	father = Glover_20
 	mother = Umber_84
 
+	trait = average_height
 	8090.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -63024,6 +63145,7 @@ Glover_28 = {
 	father = Glover_27
 	mother = Forrester_70
 
+	trait = average_height
 	8201.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -64617,6 +64739,7 @@ Forrester_9 = {
 	culture = wolfswood_clansman
 
 	trait = physique_good_3
+	trait = tall_2
 	give_nickname = nick_agot_historical_the_tall_Forrester_9
 
 	6000.1.1 = {
@@ -76374,6 +76497,7 @@ Warg_King_1 = {
 	trait = callous
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	2541.1.1 = {
@@ -82412,6 +82536,7 @@ Norrey_20 = {
 	father = Norrey_60
 	mother = Norrey_rs_60
 
+	trait = average_height
 	8110.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -84702,6 +84827,7 @@ Burley_11 = {
 	trait = humble
 	trait = honest
 
+	trait = average_height
 	8004.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -85015,6 +85141,7 @@ Burley_16 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8098.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -91613,6 +91740,7 @@ Fenn_17 = {
 
 	trait = beauty_good_1
 
+	trait = average_height
 	8160.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance

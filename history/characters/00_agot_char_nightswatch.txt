@@ -24,6 +24,7 @@ Castle_Black_1 = {
 	trait = dull
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8277.1.1 = {
@@ -69,6 +70,7 @@ Castle_Black_2 = {
 	trait = diligent
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8248.1.1 = {
@@ -113,6 +115,7 @@ Castle_Black_3 = {
 	trait = beauty_bad_2
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8270.1.1 = {
@@ -153,6 +156,7 @@ Castle_Black_4 = {
 	trait = education_learning_2
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8250.1.1 = {
@@ -192,6 +196,7 @@ Castle_Black_5 = {
 	trait = education_stewardship_2
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8240.1.1 = {
@@ -230,6 +235,7 @@ Castle_Black_6 = {
 	trait = education_martial_1
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8283.1.1 = {
@@ -281,6 +287,7 @@ Castle_Black_7 = {
 	trait = strong
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8282.1.1 = {
@@ -328,6 +335,7 @@ Castle_Black_8 = {
 	trait = honest
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8284.1.1 = {
@@ -432,6 +440,7 @@ Castle_Black_11 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8243.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -466,6 +475,7 @@ Castle_Black_12 = {
 
 	trait = education_martial_1
 
+	trait = average_height
 	8268.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -503,6 +513,7 @@ Castle_Black_13 = {
 
 	trait = education_intrigue_1
 
+	trait = average_height
 	8262.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -547,6 +558,7 @@ Castle_Black_14 = {
 	trait = honest
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8269.1.1 = {
@@ -581,6 +593,7 @@ Castle_Black_15 = {
 	trait = weak
 	trait = bastard
 
+	trait = average_height
 	8284.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -617,6 +630,7 @@ Castle_Black_16 = {
 	trait = brave
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8248.1.1 = {
@@ -658,6 +672,7 @@ Castle_Black_17 = {
 	trait = arrogant
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8270.1.1 = {
@@ -693,6 +708,7 @@ Castle_Black_18 = {
 	trait = just
 	trait = cynical
 
+	trait = average_height
 	8273.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -720,6 +736,7 @@ Castle_Black_20 = {
 
 	trait = education_diplomacy_2
 
+	trait = average_height
 	8265.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -738,6 +755,7 @@ Castle_Black_21 = {
 	trait = arrogant
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8280.1.1 = {
@@ -767,6 +785,7 @@ Castle_Black_22 = {
 	trait = education_stewardship_2
 	trait = compassionate
 
+	trait = average_height
 	8261.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -797,6 +816,7 @@ Castle_Black_23 = {
 	trait = compassionate
 	trait = just
 
+	trait = average_height
 	8281.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -820,6 +840,7 @@ Castle_Black_24 = {
 
 	trait = education_stewardship_1
 
+	trait = average_height
 	8280.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -847,6 +868,7 @@ Castle_Black_25 = {
 	trait = education_stewardship_2
 	trait = diligent
 
+	trait = average_height
 	8258.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -870,6 +892,7 @@ Castle_Black_26 = {
 
 	trait = education_stewardship_2
 
+	trait = average_height
 	8263.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -895,6 +918,7 @@ Castle_Black_27 = {
 	trait = education_martial_2
 	trait = diligent
 
+	trait = average_height
 	8255.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -926,6 +950,7 @@ Castle_Black_28 = {
 	trait = cynical
 	trait = vengeful
 
+	trait = average_height
 	8256.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -950,6 +975,7 @@ Castle_Black_29 = {
 	religion = fots_seven
 	culture = honeywiner
 
+		trait = average_height
 	8249.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -980,6 +1006,7 @@ Castle_Black_30 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8247.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1007,6 +1034,7 @@ Castle_Black_31 = {
 	trait = diligent
 	trait = just
 
+	trait = average_height
 	8239.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1033,6 +1061,7 @@ Castle_Black_32 = {
 	trait = vengeful
 	trait = just
 
+	trait = average_height
 	8260.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1409,6 +1438,7 @@ Eastwatch_By_The_Sea_1 = {
 	trait = vengeful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8256.1.1 = {
@@ -1445,6 +1475,7 @@ Eastwatch_By_The_Sea_2 = {
 
 	trait = education_learning_2
 
+	trait = average_height
 	8260.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1490,6 +1521,7 @@ Eastwatch_By_The_Sea_3 = {
 	trait = strong
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8275.1.1 = {
@@ -1608,6 +1640,7 @@ Eastwatch_By_The_Sea_6 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	7570.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -1656,6 +1689,7 @@ Shadow_Tower_1 = {
 	trait = patient
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8252.1.1 = {
@@ -1713,6 +1747,7 @@ Shadow_Tower_2 = {
 	trait = education_martial_3
 	trait = diligent
 
+	trait = average_height
 	8255.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -1749,6 +1784,7 @@ Shadow_Tower_3 = {
 	trait = education_learning_1
 	trait = education_martial_prowess_2
 
+	trait = average_height
 	8255.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -1784,6 +1820,7 @@ Shadow_Tower_8 = {
 	trait = brave
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8258.1.1 = {
@@ -1988,6 +2025,7 @@ Mutineers_1 = {
 	trait = education_martial_1
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8267.1.1 = {
@@ -2033,6 +2071,7 @@ Mutineers_2 = {
 	trait = education_martial_2
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8261.1.1 = {
@@ -2089,6 +2128,7 @@ Mutineers_3 = {
 	trait = education_martial_1
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8273.1.1 = {
@@ -2135,6 +2175,7 @@ Mutineers_4 = {
 	trait = education_martial_1
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8274.1.1 = {
@@ -2180,6 +2221,7 @@ Mutineers_5 = {
 	trait = clubfooted
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8276.1.1 = {
@@ -2226,6 +2268,7 @@ Mutineers_6 = {
 	trait = education_martial_1
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8272.1.1 = {
@@ -2354,6 +2397,7 @@ Mutineers_11 = {
 	trait = education_martial_2
 	trait = sadistic
 
+	trait = average_height
 	8269.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2392,6 +2436,7 @@ Mutineers_12 = {
 	trait = education_stewardship_1
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8270.1.1 = {

@@ -42,6 +42,7 @@ Thenn_1 = {
 	trait = stubborn
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8252.1.1 = {
@@ -95,6 +96,7 @@ Thenn_2 = {
 	trait = compassionate
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8272.1.1 = {

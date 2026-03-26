@@ -73,6 +73,7 @@ Rayder_1 = {
 	trait = ambitious
 	trait = charming
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8256.1.1 = {
@@ -182,6 +183,7 @@ Rayder_hh_2 = {
 	trait = brave
 	trait = compassionate
 
+	trait = average_height
 	8278.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -219,6 +221,7 @@ Rayder_hh_3 = {
 	trait = honest
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8279.1.1 = {
@@ -261,6 +264,7 @@ Rayder_hh_4 = {
 	trait = brave
 	trait = diligent
 
+	trait = average_height
 	8281.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -286,6 +290,7 @@ Rayder_2 = {
 
 	trait = strong
 
+	trait = average_height
 	8300.1.29 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -332,6 +337,7 @@ Giantsbane_1 = {
 	trait = compassionate
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8252.1.1 = {
@@ -372,6 +378,7 @@ Giantsbane_2 = {
 	trait = lazy
 	trait = honest
 	trait = charming
+	trait = tall_2
 
 	disallow_random_traits = yes
 
@@ -401,6 +408,7 @@ Giantsbane_3 = {
 	trait = compassionate
 	trait = craven
 
+	trait = average_height
 	8279.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -428,6 +436,7 @@ Giantsbane_4 = {
 	trait = honest
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8282.1.1 = {
@@ -460,6 +469,7 @@ Giantsbane_5 = {
 	trait = stubborn
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8283.1.1 = {
@@ -484,6 +494,7 @@ Giantsbane_6 = {
 	trait = honest
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8292.1.1 = {
@@ -527,6 +538,7 @@ Kingsblood_4 = {
 	trait = authoritative
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8256.1.1 = {
@@ -693,6 +705,7 @@ Sixskins_2 = {
 	mother = Sixskins_rs_1
 	father = Sixskins_1
 
+	trait = average_height
 	8251.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -721,6 +734,7 @@ Sixskins_3 = {
 	trait = sickly
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8256.1.1 = {
@@ -767,6 +781,7 @@ Sixskins_4 = {
 
 	trait = strong
 
+	trait = average_height
 	8260.7.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -930,6 +945,7 @@ Harle_2 = {
 	trait = vengeful
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8265.1.1 = {
@@ -965,6 +981,7 @@ Harle_3 = {
 	trait = vengeful
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8266.1.1 = {
@@ -1439,6 +1456,7 @@ Dogshead_2 = {
 	trait = vengeful
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8270.1.1 = {
@@ -1471,6 +1489,7 @@ Dogshead_3 = {
 	trait = forgiving
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8272.1.1 = {
@@ -2778,6 +2797,7 @@ Rattleshirt_1 = {
 	trait = deceitful
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8259.1.1 = {
@@ -2824,6 +2844,7 @@ Weeper_1 = {
 	trait = vengeful
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8259.1.1 = {
@@ -2851,6 +2872,7 @@ Sealskinner_1 = {
 	trait = brave
 	trait = diligent
 
+	trait = average_height
 	8256.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2932,6 +2954,7 @@ White_Mask_1 = {
 	trait = education_martial_prowess_3
 	trait = authoritative
 
+	trait = average_height
 	8256.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -2980,6 +3003,7 @@ Crowkiller_1 = {
 	trait = vengeful
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8259.1.1 = {
@@ -3087,6 +3111,7 @@ Skinchanger_4 = {
 	trait = brave
 	#trait = boar # AGOT TODO trait
 
+	trait = average_height
 	8250.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3105,6 +3130,7 @@ Wooden_Ear_1 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8259.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3152,6 +3178,7 @@ Shieldbreaker_1 = {
 	trait = education_martial_prowess_3
 	trait = physique_good_1
 
+	trait = average_height
 	8262.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3199,6 +3226,7 @@ Great_Walrus_1 = {
 	trait = authoritative
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8252.1.1 = {
@@ -3318,6 +3346,7 @@ Mother_Mole_1 = {
 	trait = eccentric
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8243.1.1 = {
@@ -3350,6 +3379,7 @@ Brogg_1 = {
 	trait = brave
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8263.1.1 = {
@@ -3394,6 +3424,7 @@ Wanderer_1 = {
 	trait = honest
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8259.1.1 = {
@@ -3434,6 +3465,7 @@ Blind_Doss_1 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8251.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3450,6 +3482,7 @@ Gavin_The_Trader_1 = {
 
 	trait = education_stewardship_3
 
+	trait = average_height
 	8265.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3793,6 +3826,7 @@ Lowborn_Wildling_1 = {
 	trait = honest
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8280.1.1 = {
@@ -3832,6 +3866,7 @@ Lowborn_Wildling_2 = {
 	trait = compassionate
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8278.1.1 = {
@@ -3857,6 +3892,7 @@ Lowborn_Wildling_3 = {
 	trait = vengeful
 	#trait = eagle # AGOT TODO trait
 
+	trait = average_height
 	8265.1.1 = {
 		birth = yes
 		make_trait_inactive = scripted_appearance
@@ -3883,6 +3919,7 @@ Spearwife_1 = {
 	trait = strong
 	trait = brave
 
+	trait = average_height
 	8264.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3904,6 +3941,7 @@ Spearwife_2 = {
 	trait = education_martial_prowess_2
 	trait = brave
 
+	trait = average_height
 	8284.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3925,6 +3963,7 @@ Spearwife_3 = {
 	trait = education_martial_prowess_2
 	trait = brave
 
+	trait = average_height
 	8238.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -3949,6 +3988,7 @@ Spearwife_4 = {
 	trait = arrogant
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8268.1.1 = {
@@ -3972,6 +4012,7 @@ Spearwife_6 = {
 	trait = education_martial_prowess_2
 	trait = brave
 
+	trait = average_height
 	8262.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -4007,6 +4048,7 @@ Spearwife_5 = {
 	trait = education_martial_prowess_2
 	trait = brave
 
+	trait = average_height
 	8282.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -4053,6 +4095,7 @@ Wildling_Nightswatch_1 = {
 	trait = physique_good_1
 	trait = stubborn
 
+	trait = average_height
 	8274.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -4077,6 +4120,7 @@ Wildling_Nightswatch_2 = {
 	trait = education_martial_1
 	trait = education_martial_prowess_2
 
+	trait = average_height
 	8270.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -4099,6 +4143,7 @@ Wildling_Nightswatch_3 = {
 	trait = wrathful
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8255.1.1 = {
@@ -4157,6 +4202,7 @@ Wildling_Nightswatch_6 = {
 	religion = old_gods_btw_fnf
 	culture = forestman
 
+	trait = average_height
 	8251.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -4212,6 +4258,7 @@ Skinchanger_1 = {
 	trait = content
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8205.1.1 = {
@@ -4228,6 +4275,7 @@ Skinchanger_2 = {
 	religion = old_gods_btw_fnf
 	culture = forestman
 
+	trait = average_height
 	8222.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -4242,6 +4290,7 @@ Skinchanger_3 = {
 	religion = old_gods_btw_fnf
 	culture = fangman
 
+	trait = average_height
 	8230.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon

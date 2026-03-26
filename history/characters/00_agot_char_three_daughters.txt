@@ -392,6 +392,7 @@ Tumitis_1 = {
 
 	trait = greedy
 
+	trait = average_height
 	8247.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -752,6 +753,7 @@ Jayn_47 = {
 
 	trait = education_martial_2
 
+	trait = average_height
 	8279.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -2838,6 +2840,7 @@ Quaynis_7 = {
 
 	trait = beauty_good_1
 
+	trait = average_height
 	8278.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -6179,6 +6182,7 @@ Ormollen_1 = {
 	trait = callous
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8257.1.1 = {
@@ -9749,6 +9753,7 @@ Rhegan_33 = {
 	trait = honest
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8262.1.1 = {
@@ -13272,6 +13277,7 @@ Lavelos_22 = {
 	trait = authoritative
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8257.1.1 = {
@@ -14014,6 +14020,7 @@ Lornel_29 = {
 	trait = lazy
 	trait = curious
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8235.1.1 = {

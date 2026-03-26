@@ -19,6 +19,7 @@ King_Beyond_The_Wall_1 = {
 	trait = authoritative
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	75.1.1 = {
@@ -55,6 +56,7 @@ King_Beyond_The_Wall_2 = {
 	trait = authoritative
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	3950.1.1 = {
@@ -113,6 +115,7 @@ King_Beyond_The_Wall_4 = {
 	trait = gregarious
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	4978.1.1 = {
@@ -148,6 +151,7 @@ King_Beyond_The_Wall_5 = {
 	trait = brave
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	4980.1.1 = {
@@ -213,6 +217,7 @@ Bael_1 = {
 	trait = brave
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	6312.1.1 = {
@@ -382,6 +387,7 @@ Forester_15 = {
 	trait = honest
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	give_nickname = nick_agot_historical_redbeard
@@ -541,6 +547,7 @@ Hardhome_Gorm_1 = {
 	trait = intellect_good_1
 	trait = diligent
 
+	trait = average_height
 	7644.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -560,6 +567,7 @@ Hardhome_Gorm_hh_1 = {
 	trait = education_learning_2
 	trait = brave
 
+	trait = average_height
 	7615.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -599,6 +607,7 @@ Wildling_Chief_1 = {
 	trait = ambitious
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8101.1.1 = {

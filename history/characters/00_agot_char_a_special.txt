@@ -20,6 +20,7 @@ Most_Devout_1 = {
 	trait = patient
 	trait = just
 
+	trait = average_height
 	6803.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -265,6 +266,7 @@ Most_Devout_8 = {
 	trait = gregarious
 	trait = compassionate
 
+	trait = average_height
 	7953.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -325,6 +327,7 @@ Most_Devout_10 = {
 	trait = authoritative
 	trait = rowdy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	7990.1.1 = {
@@ -449,6 +452,7 @@ Most_Devout_15 = {
 	trait = patient
 	trait = pensive
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8129.1.1 = {
@@ -676,6 +680,7 @@ Most_Devout_22 = {
 	trait = authoritative
 	trait = bossy
 
+	trait = average_height
 	disallow_random_traits = yes
 
 	8243.1.1 = {
@@ -712,6 +717,7 @@ Most_Devout_35 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	8240.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -734,6 +740,7 @@ Most_Devout_36 = {
 
 	trait = education_learning_3
 
+	trait = average_height
 	8242.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -758,6 +765,7 @@ Most_Devout_37 = {
 	trait = humble
 	trait = education_learning_3
 
+	trait = average_height
 	8236.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -782,6 +790,7 @@ Most_Devout_23 = {
 	trait = zealous
 	trait = calm
 
+	trait = average_height
 	8254.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -802,6 +811,7 @@ Most_Devout_24 = {
 
 	trait = education_learning_2
 
+	trait = average_height
 	8263.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -822,6 +832,7 @@ Most_Devout_25 = {
 
 	trait = education_learning_2
 
+	trait = average_height
 	8260.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
@@ -844,6 +855,7 @@ Most_Devout_26 = {
 	trait = zealous
 	trait = paranoid
 
+	trait = average_height
 	8260.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_canon
